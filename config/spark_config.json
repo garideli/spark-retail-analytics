@@ -1,0 +1,32 @@
+{
+  "spark_configurations": {
+    "spark.sql.adaptive.enabled": "true",
+    "spark.sql.adaptive.coalescePartitions.enabled": "true",
+    "spark.sql.adaptive.localShuffleReader.enabled": "true",
+    "spark.sql.adaptive.skewJoin.enabled": "true",
+    "spark.sql.statistics.histogram.enabled": "true",
+    "spark.sql.shuffle.partitions": "200",
+    "spark.sql.execution.arrow.pyspark.enabled": "true",
+    "spark.sql.execution.arrow.pyspark.fallback.enabled": "true"
+  },
+  "data_quality": {
+    "null_threshold": 0.05,
+    "duplicate_check_enabled": true,
+    "freshness_check_days": 30
+  },
+  "output_formats": {
+    "csv": {
+      "header": true,
+      "delimiter": ",",
+      "quote": "\""
+    },
+    "parquet": {
+      "compression": "snappy"
+    }
+  },
+  "paths": {
+    "raw_data": "data/raw",
+    "processed_data": "data/processed",
+    "output_data": "data/output"
+  }
+}

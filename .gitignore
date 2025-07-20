@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+logs/
+*.log
+
+# Output files (keep structure but not data)
+data/output/*
+!data/output/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Large data files
+*.parquet
+*.avro
+
+# Temporary files
+*.tmp
+.temp/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local config overrides
+config/local/
+
+# Sample data display script
+show_sample_data.py

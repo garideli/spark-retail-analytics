@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,supplier_id,weight,is_active
+PROD000001,Clothing Item 1,Clothing,FashionHub,80.2,133.16,983,SUPP039,48.34,false
+PROD000002,Books Item 2,Books,FoodMart,165.71,150.17,973,SUPP038,32.13,true
+PROD000003,Clothing Item 3,Clothing,BookWorld,13.58,148.02,954,SUPP024,1.31,false
+PROD000004,Home & Garden Item 4,Home & Garden,BeautyPro,401.31,136.58,657,SUPP032,21.71,false
+PROD000005,Beauty Item 5,Beauty,ToyLand,409.78,131.79,40,SUPP002,7.17,true
+PROD000006,Beauty Item 6,Beauty,HomeStyle,424.07,133.24,117,SUPP045,4.16,false
+PROD000007,Electronics Item 7,Electronics,BookWorld,464.85,37.27,218,SUPP031,22.71,true
+PROD000008,Sports Item 8,Sports,SportZone,262.85,11.91,434,SUPP029,2.33,true
+PROD000009,Books Item 9,Books,FashionHub,349.28,133.08,207,SUPP016,9.38,true
+PROD000010,Sports Item 10,Sports,FashionHub,293.47,245.89,490,SUPP037,47.92,false
+PROD000011,Electronics Item 11,Electronics,FashionHub,159.8,139.44,194,SUPP004,12.52,false
+PROD000012,Books Item 12,Books,HomeStyle,191.39,14.99,189,SUPP001,0.25,false
+PROD000013,Clothing Item 13,Clothing,HomeStyle,430.2,234.38,564,SUPP023,21.07,true
+PROD000014,Electronics Item 14,Electronics,BeautyPro,89.13,77.21,199,SUPP010,36.5,true
+PROD000015,Food Item 15,Food,FashionHub,291.95,85.23,984,SUPP015,47.74,true
+PROD000016,Food Item 16,Food,FashionHub,213.77,94.62,635,SUPP035,46.6,false
+PROD000017,Clothing Item 17,Clothing,FoodMart,333.4,21.78,36,SUPP033,33.81,false
+PROD000018,Clothing Item 18,Clothing,ToyLand,407.36,127.78,461,SUPP020,0.68,true
+PROD000019,Toys Item 19,Toys,SportZone,99.06,54.45,23,SUPP004,28.46,false
+PROD000020,Food Item 20,Food,HomeStyle,319.61,149.69,26,SUPP011,13.09,true
+PROD000021,Beauty Item 21,Beauty,BookWorld,196.18,245.28,723,SUPP028,44.52,false
+PROD000022,Clothing Item 22,Clothing,FoodMart,72.33,6.74,396,SUPP038,20.28,true
+PROD000023,Sports Item 23,Sports,BookWorld,58.01,171.93,192,SUPP013,17.89,false
+PROD000024,Food Item 24,Food,ToyLand,209.41,143.17,375,SUPP036,9.71,false
+PROD000025,Sports Item 25,Sports,HomeStyle,36.66,149.18,236,SUPP027,41.37,true
+PROD000026,Home & Garden Item 26,Home & Garden,TechCorp,333.85,70.18,154,SUPP019,30.0,false
+PROD000027,Clothing Item 27,Clothing,BeautyPro,384.69,227.74,458,SUPP037,40.43,false
+PROD000028,Beauty Item 28,Beauty,HomeStyle,215.34,41.21,28,SUPP036,1.78,true
+PROD000029,Sports Item 29,Sports,BeautyPro,196.26,8.94,592,SUPP002,35.28,false
+PROD000030,Toys Item 30,Toys,BookWorld,482.44,116.14,706,SUPP050,3.21,false
+PROD000031,Clothing Item 31,Clothing,FoodMart,22.3,107.42,7,SUPP029,42.58,false
+PROD000032,Sports Item 32,Sports,TechCorp,394.35,198.85,692,SUPP013,45.35,false
+PROD000033,Sports Item 33,Sports,BookWorld,77.08,18.03,343,SUPP033,11.67,true
+PROD000034,Electronics Item 34,Electronics,SportZone,347.28,234.68,789,SUPP026,13.74,false
+PROD000035,Books Item 35,Books,BookWorld,441.02,135.06,152,SUPP022,40.26,true
+PROD000036,Toys Item 36,Toys,SportZone,119.42,198.97,205,SUPP024,21.08,false
+PROD000037,Beauty Item 37,Beauty,HomeStyle,378.99,90.74,792,SUPP003,13.0,false
+PROD000038,Home & Garden Item 38,Home & Garden,HomeStyle,445.02,107.02,795,SUPP005,38.5,true
+PROD000039,Books Item 39,Books,FashionHub,39.05,103.28,555,SUPP048,30.81,true
+PROD000040,Toys Item 40,Toys,BeautyPro,176.3,215.4,680,SUPP001,19.03,true
+PROD000041,Sports Item 41,Sports,SportZone,274.65,154.58,659,SUPP004,31.91,false
+PROD000042,Clothing Item 42,Clothing,FashionHub,145.9,16.79,709,SUPP028,49.65,true
+PROD000043,Sports Item 43,Sports,BeautyPro,109.66,125.38,662,SUPP013,38.73,false
+PROD000044,Toys Item 44,Toys,SportZone,231.93,173.73,86,SUPP014,10.82,true
+PROD000045,Toys Item 45,Toys,FoodMart,51.28,43.39,492,SUPP010,46.29,true
+PROD000046,Books Item 46,Books,FoodMart,258.17,134.85,198,SUPP016,49.57,false
+PROD000047,Books Item 47,Books,TechCorp,300.77,71.27,986,SUPP045,43.5,true
+PROD000048,Beauty Item 48,Beauty,HomeStyle,93.37,239.07,616,SUPP036,44.34,true
+PROD000049,Food Item 49,Food,ToyLand,331.49,120.41,590,SUPP003,2.35,false
+PROD000050,Electronics Item 50,Electronics,BookWorld,329.93,237.56,884,SUPP010,15.99,false
+PROD000051,Food Item 51,Food,BookWorld,440.77,38.92,184,SUPP030,24.29,true
+PROD000052,Electronics Item 52,Electronics,BookWorld,108.79,200.58,620,SUPP028,23.95,true
+PROD000053,Home & Garden Item 53,Home & Garden,TechCorp,45.25,195.62,93,SUPP039,5.27,true
+PROD000054,Toys Item 54,Toys,TechCorp,325.19,35.56,21,SUPP022,42.64,true
+PROD000055,Toys Item 55,Toys,FashionHub,191.58,84.36,390,SUPP042,35.39,true
+PROD000056,Toys Item 56,Toys,FoodMart,35.66,23.86,908,SUPP010,32.15,true
+PROD000057,Food Item 57,Food,SportZone,326.85,212.7,12,SUPP013,10.49,true
+PROD000058,Sports Item 58,Sports,BeautyPro,362.03,219.08,936,SUPP050,43.55,true
+PROD000059,Toys Item 59,Toys,ToyLand,407.12,228.14,33,SUPP025,41.65,true
+PROD000060,Electronics Item 60,Electronics,HomeStyle,104.75,183.58,644,SUPP014,39.83,false
+PROD000061,Toys Item 61,Toys,FashionHub,23.32,197.61,637,SUPP032,41.27,true
+PROD000062,Toys Item 62,Toys,SportZone,24.43,128.9,475,SUPP025,0.71,true
+PROD000063,Books Item 63,Books,TechCorp,382.76,234.24,1000,SUPP047,12.11,false
+PROD000064,Toys Item 64,Toys,FashionHub,79.45,45.73,447,SUPP014,21.52,false
+PROD000065,Electronics Item 65,Electronics,HomeStyle,42.12,96.58,422,SUPP022,20.6,false
+PROD000066,Food Item 66,Food,ToyLand,482.17,172.87,472,SUPP020,5.36,true
+PROD000067,Food Item 67,Food,TechCorp,489.19,157.04,832,SUPP016,8.49,false
+PROD000068,Sports Item 68,Sports,BookWorld,367.8,38.77,729,SUPP043,32.7,true
+PROD000069,Beauty Item 69,Beauty,FoodMart,356.87,50.73,372,SUPP046,47.58,true
+PROD000070,Beauty Item 70,Beauty,FashionHub,407.21,220.53,831,SUPP025,7.03,false
+PROD000071,Sports Item 71,Sports,HomeStyle,333.35,247.79,99,SUPP004,20.13,true
+PROD000072,Clothing Item 72,Clothing,HomeStyle,167.39,25.54,927,SUPP041,11.93,false
+PROD000073,Sports Item 73,Sports,TechCorp,177.72,7.27,641,SUPP024,46.45,false
+PROD000074,Home & Garden Item 74,Home & Garden,BeautyPro,477.47,214.76,87,SUPP004,33.05,false
+PROD000075,Home & Garden Item 75,Home & Garden,HomeStyle,168.76,103.96,401,SUPP026,36.12,false
+PROD000076,Books Item 76,Books,BeautyPro,316.58,30.84,734,SUPP022,18.91,true
+PROD000077,Sports Item 77,Sports,SportZone,499.14,123.35,881,SUPP014,28.54,false
+PROD000078,Home & Garden Item 78,Home & Garden,TechCorp,355.66,113.76,429,SUPP028,18.86,false
+PROD000079,Food Item 79,Food,ToyLand,471.3,230.29,787,SUPP046,2.51,true
+PROD000080,Beauty Item 80,Beauty,FoodMart,494.26,125.19,609,SUPP015,38.84,true
+PROD000081,Electronics Item 81,Electronics,BeautyPro,499.09,249.88,167,SUPP017,22.26,false
+PROD000082,Home & Garden Item 82,Home & Garden,HomeStyle,164.95,183.41,279,SUPP022,3.61,false
+PROD000083,Food Item 83,Food,HomeStyle,247.95,70.75,450,SUPP046,28.6,false
+PROD000084,Toys Item 84,Toys,HomeStyle,433.78,105.78,313,SUPP022,36.12,true
+PROD000085,Sports Item 85,Sports,BookWorld,476.85,219.69,987,SUPP015,0.61,false
+PROD000086,Beauty Item 86,Beauty,ToyLand,426.1,47.14,757,SUPP035,49.37,false
+PROD000087,Sports Item 87,Sports,FoodMart,307.68,154.41,348,SUPP050,49.01,false
+PROD000088,Books Item 88,Books,BeautyPro,373.44,143.45,432,SUPP044,40.92,true
+PROD000089,Beauty Item 89,Beauty,ToyLand,417.36,218.34,806,SUPP016,35.97,false
+PROD000090,Home & Garden Item 90,Home & Garden,SportZone,42.34,13.61,364,SUPP013,6.12,true
+PROD000091,Sports Item 91,Sports,SportZone,370.76,12.89,996,SUPP034,34.25,false
+PROD000092,Electronics Item 92,Electronics,HomeStyle,132.71,173.75,321,SUPP010,49.61,false
+PROD000093,Beauty Item 93,Beauty,TechCorp,77.32,244.16,448,SUPP023,47.55,false
+PROD000094,Sports Item 94,Sports,BookWorld,89.39,154.7,976,SUPP004,6.99,true
+PROD000095,Beauty Item 95,Beauty,BeautyPro,121.85,151.12,306,SUPP042,2.92,false
+PROD000096,Sports Item 96,Sports,TechCorp,173.53,140.65,949,SUPP008,27.81,true
+PROD000097,Toys Item 97,Toys,BeautyPro,463.82,239.47,962,SUPP011,41.24,true
+PROD000098,Food Item 98,Food,HomeStyle,170.9,232.98,960,SUPP017,11.68,false
+PROD000099,Beauty Item 99,Beauty,SportZone,364.15,72.68,246,SUPP045,11.42,false
+PROD000100,Books Item 100,Books,TechCorp,395.66,203.32,572,SUPP015,29.4,true
+PROD000101,Clothing Item 101,Clothing,FoodMart,213.83,190.22,694,SUPP022,7.19,false
+PROD000102,Electronics Item 102,Electronics,HomeStyle,104.43,9.3,267,SUPP026,8.24,false
+PROD000103,Electronics Item 103,Electronics,ToyLand,413.8,35.87,682,SUPP047,45.64,false
+PROD000104,Clothing Item 104,Clothing,BeautyPro,325.22,47.65,239,SUPP016,23.75,false
+PROD000105,Toys Item 105,Toys,SportZone,181.57,101.07,642,SUPP001,14.86,true
+PROD000106,Clothing Item 106,Clothing,HomeStyle,301.01,152.21,401,SUPP043,32.92,true
+PROD000107,Clothing Item 107,Clothing,HomeStyle,292.61,200.07,531,SUPP012,15.3,true
+PROD000108,Sports Item 108,Sports,BookWorld,316.46,37.29,992,SUPP013,41.05,true
+PROD000109,Books Item 109,Books,TechCorp,213.68,196.43,563,SUPP017,44.88,false
+PROD000110,Books Item 110,Books,HomeStyle,332.32,199.36,387,SUPP028,9.76,false
+PROD000111,Beauty Item 111,Beauty,ToyLand,317.69,16.52,708,SUPP001,23.43,true
+PROD000112,Books Item 112,Books,FashionHub,135.8,113.46,477,SUPP040,39.66,false
+PROD000113,Clothing Item 113,Clothing,FashionHub,31.2,219.22,375,SUPP029,16.81,true
+PROD000114,Food Item 114,Food,SportZone,253.06,197.98,145,SUPP005,31.14,false
+PROD000115,Beauty Item 115,Beauty,FoodMart,207.86,138.24,221,SUPP008,34.16,true
+PROD000116,Food Item 116,Food,BookWorld,73.11,246.36,670,SUPP011,33.26,false
+PROD000117,Books Item 117,Books,ToyLand,254.17,93.96,799,SUPP039,46.25,false
+PROD000118,Beauty Item 118,Beauty,SportZone,173.7,122.14,854,SUPP022,25.01,false
+PROD000119,Home & Garden Item 119,Home & Garden,ToyLand,152.54,208.55,593,SUPP031,26.74,false
+PROD000120,Electronics Item 120,Electronics,BeautyPro,361.5,135.87,997,SUPP033,7.79,false
+PROD000121,Sports Item 121,Sports,TechCorp,105.16,7.06,923,SUPP012,7.83,false
+PROD000122,Clothing Item 122,Clothing,FashionHub,206.0,124.49,871,SUPP030,11.22,true
+PROD000123,Food Item 123,Food,FashionHub,461.74,90.17,811,SUPP001,14.93,false
+PROD000124,Electronics Item 124,Electronics,BookWorld,263.55,48.27,24,SUPP025,26.72,true
+PROD000125,Clothing Item 125,Clothing,TechCorp,14.74,72.21,324,SUPP015,6.97,false
+PROD000126,Beauty Item 126,Beauty,BookWorld,385.5,75.31,940,SUPP026,22.03,false
+PROD000127,Beauty Item 127,Beauty,FashionHub,322.02,182.63,327,SUPP004,23.67,true
+PROD000128,Books Item 128,Books,HomeStyle,495.33,75.17,981,SUPP019,35.66,true
+PROD000129,Toys Item 129,Toys,ToyLand,128.28,93.21,832,SUPP016,32.87,false
+PROD000130,Clothing Item 130,Clothing,SportZone,104.51,29.0,696,SUPP042,3.57,false
+PROD000131,Electronics Item 131,Electronics,BookWorld,268.0,240.45,652,SUPP014,5.09,true
+PROD000132,Clothing Item 132,Clothing,BeautyPro,14.98,62.78,914,SUPP022,40.93,false
+PROD000133,Home & Garden Item 133,Home & Garden,ToyLand,67.36,194.34,974,SUPP024,17.08,false
+PROD000134,Electronics Item 134,Electronics,ToyLand,386.21,32.38,87,SUPP019,48.1,false
+PROD000135,Home & Garden Item 135,Home & Garden,SportZone,170.52,154.35,314,SUPP012,35.92,false
+PROD000136,Beauty Item 136,Beauty,TechCorp,400.11,150.17,941,SUPP023,17.95,false
+PROD000137,Sports Item 137,Sports,SportZone,400.09,15.92,151,SUPP041,2.87,true
+PROD000138,Home & Garden Item 138,Home & Garden,BookWorld,468.95,159.91,442,SUPP001,24.08,false
+PROD000139,Electronics Item 139,Electronics,BeautyPro,217.95,141.12,396,SUPP007,12.51,false
+PROD000140,Sports Item 140,Sports,HomeStyle,90.04,116.96,73,SUPP026,26.91,true
+PROD000141,Beauty Item 141,Beauty,TechCorp,232.63,241.48,252,SUPP003,4.6,false
+PROD000142,Beauty Item 142,Beauty,BookWorld,131.25,174.66,587,SUPP014,16.68,true
+PROD000143,Clothing Item 143,Clothing,HomeStyle,116.53,147.53,280,SUPP029,16.47,false
+PROD000144,Clothing Item 144,Clothing,TechCorp,246.98,119.47,268,SUPP038,46.6,false
+PROD000145,Sports Item 145,Sports,ToyLand,483.62,66.63,318,SUPP003,30.4,true
+PROD000146,Electronics Item 146,Electronics,BeautyPro,492.75,77.15,297,SUPP012,47.68,false
+PROD000147,Home & Garden Item 147,Home & Garden,TechCorp,439.01,152.35,230,SUPP040,0.37,false
+PROD000148,Beauty Item 148,Beauty,TechCorp,440.86,53.27,433,SUPP041,31.57,false
+PROD000149,Toys Item 149,Toys,BeautyPro,438.91,7.53,878,SUPP042,10.03,false
+PROD000150,Books Item 150,Books,FashionHub,279.36,73.34,882,SUPP024,8.5,true
+PROD000151,Clothing Item 151,Clothing,FashionHub,413.35,129.35,31,SUPP045,31.61,false
+PROD000152,Sports Item 152,Sports,ToyLand,275.31,58.06,778,SUPP023,31.15,false
+PROD000153,Beauty Item 153,Beauty,FashionHub,328.87,165.26,576,SUPP044,47.06,true
+PROD000154,Food Item 154,Food,BookWorld,208.34,239.16,127,SUPP002,49.06,true
+PROD000155,Home & Garden Item 155,Home & Garden,FoodMart,257.7,72.55,945,SUPP027,38.73,false
+PROD000156,Books Item 156,Books,FoodMart,130.87,77.15,362,SUPP043,29.35,false
+PROD000157,Home & Garden Item 157,Home & Garden,HomeStyle,419.31,135.21,446,SUPP028,43.01,true
+PROD000158,Clothing Item 158,Clothing,BeautyPro,418.37,192.72,888,SUPP037,16.17,true
+PROD000159,Books Item 159,Books,FashionHub,26.71,221.4,691,SUPP048,6.62,true
+PROD000160,Clothing Item 160,Clothing,BookWorld,488.6,88.67,215,SUPP007,4.46,true
+PROD000161,Toys Item 161,Toys,BookWorld,441.98,12.66,769,SUPP012,45.56,false
+PROD000162,Books Item 162,Books,SportZone,470.42,185.43,973,SUPP012,47.2,false
+PROD000163,Beauty Item 163,Beauty,ToyLand,283.29,142.93,405,SUPP044,4.5,false
+PROD000164,Food Item 164,Food,SportZone,95.02,27.4,39,SUPP010,19.0,true
+PROD000165,Electronics Item 165,Electronics,ToyLand,404.78,148.08,417,SUPP014,7.68,true
+PROD000166,Beauty Item 166,Beauty,BeautyPro,457.17,152.94,890,SUPP049,1.88,false
+PROD000167,Food Item 167,Food,BeautyPro,298.67,60.28,406,SUPP010,29.36,true
+PROD000168,Food Item 168,Food,FashionHub,390.32,168.6,762,SUPP024,17.05,true
+PROD000169,Clothing Item 169,Clothing,ToyLand,181.74,7.62,670,SUPP019,27.21,true
+PROD000170,Books Item 170,Books,BeautyPro,293.77,203.27,820,SUPP040,22.28,false
+PROD000171,Home & Garden Item 171,Home & Garden,SportZone,305.59,165.5,104,SUPP011,7.35,true
+PROD000172,Books Item 172,Books,SportZone,240.8,111.74,30,SUPP049,4.53,false
+PROD000173,Beauty Item 173,Beauty,HomeStyle,109.82,162.97,371,SUPP033,43.25,true
+PROD000174,Beauty Item 174,Beauty,ToyLand,177.04,226.99,138,SUPP008,17.46,false
+PROD000175,Books Item 175,Books,TechCorp,339.66,246.98,470,SUPP007,44.2,true
+PROD000176,Books Item 176,Books,ToyLand,189.83,23.23,685,SUPP005,40.86,false
+PROD000177,Clothing Item 177,Clothing,BookWorld,354.49,123.6,635,SUPP046,41.34,true
+PROD000178,Food Item 178,Food,TechCorp,75.28,128.26,746,SUPP041,10.69,true
+PROD000179,Beauty Item 179,Beauty,BookWorld,243.27,167.38,0,SUPP042,19.45,false
+PROD000180,Food Item 180,Food,TechCorp,392.39,170.88,459,SUPP044,21.39,true
+PROD000181,Electronics Item 181,Electronics,BookWorld,198.16,32.34,323,SUPP031,29.85,false
+PROD000182,Toys Item 182,Toys,FashionHub,213.5,51.82,465,SUPP024,36.98,true
+PROD000183,Food Item 183,Food,BookWorld,266.05,215.31,201,SUPP024,1.76,false
+PROD000184,Food Item 184,Food,BookWorld,241.42,97.01,324,SUPP029,45.3,true
+PROD000185,Toys Item 185,Toys,FashionHub,197.34,34.61,831,SUPP031,12.0,true
+PROD000186,Sports Item 186,Sports,FoodMart,320.36,146.86,518,SUPP002,5.27,true
+PROD000187,Home & Garden Item 187,Home & Garden,HomeStyle,327.51,201.62,271,SUPP039,4.5,true
+PROD000188,Clothing Item 188,Clothing,ToyLand,21.8,212.79,147,SUPP044,38.63,false
+PROD000189,Food Item 189,Food,FashionHub,195.59,210.05,725,SUPP009,23.41,false
+PROD000190,Food Item 190,Food,ToyLand,57.52,14.76,385,SUPP040,24.78,true
+PROD000191,Sports Item 191,Sports,FoodMart,322.24,214.54,318,SUPP005,15.9,true
+PROD000192,Clothing Item 192,Clothing,TechCorp,314.07,139.52,888,SUPP047,40.57,false
+PROD000193,Toys Item 193,Toys,ToyLand,311.14,149.54,564,SUPP003,26.73,true
+PROD000194,Sports Item 194,Sports,ToyLand,319.42,188.85,187,SUPP008,30.84,true
+PROD000195,Toys Item 195,Toys,SportZone,333.5,94.89,270,SUPP001,29.44,true
+PROD000196,Toys Item 196,Toys,BeautyPro,71.66,241.1,442,SUPP043,43.11,false
+PROD000197,Food Item 197,Food,BeautyPro,396.41,228.08,525,SUPP033,35.52,true
+PROD000198,Home & Garden Item 198,Home & Garden,SportZone,116.47,243.22,52,SUPP016,0.16,true
+PROD000199,Home & Garden Item 199,Home & Garden,SportZone,466.1,76.11,510,SUPP017,10.34,false
+PROD000200,Clothing Item 200,Clothing,TechCorp,182.62,6.96,427,SUPP035,12.3,true
+PROD000201,Home & Garden Item 201,Home & Garden,BookWorld,173.57,78.16,187,SUPP023,39.0,false
+PROD000202,Home & Garden Item 202,Home & Garden,FashionHub,77.81,128.0,518,SUPP048,31.14,true
+PROD000203,Sports Item 203,Sports,HomeStyle,493.94,197.16,137,SUPP004,36.62,true
+PROD000204,Beauty Item 204,Beauty,TechCorp,183.85,212.94,507,SUPP040,42.12,false
+PROD000205,Food Item 205,Food,FoodMart,163.1,127.38,531,SUPP038,30.41,true
+PROD000206,Sports Item 206,Sports,HomeStyle,217.06,35.9,105,SUPP021,18.07,true
+PROD000207,Beauty Item 207,Beauty,BeautyPro,90.74,86.41,101,SUPP043,7.59,true
+PROD000208,Sports Item 208,Sports,BeautyPro,324.89,157.96,128,SUPP031,1.19,false
+PROD000209,Beauty Item 209,Beauty,ToyLand,368.52,125.1,82,SUPP022,49.98,true
+PROD000210,Electronics Item 210,Electronics,HomeStyle,418.91,86.36,520,SUPP043,0.14,true
+PROD000211,Books Item 211,Books,ToyLand,70.17,238.13,54,SUPP030,48.7,true
+PROD000212,Clothing Item 212,Clothing,ToyLand,297.02,209.93,807,SUPP027,24.87,false
+PROD000213,Beauty Item 213,Beauty,TechCorp,397.49,177.08,535,SUPP005,10.32,false
+PROD000214,Food Item 214,Food,BookWorld,255.88,34.06,153,SUPP026,1.19,true
+PROD000215,Beauty Item 215,Beauty,TechCorp,404.8,146.8,258,SUPP005,48.7,false
+PROD000216,Electronics Item 216,Electronics,BookWorld,320.23,22.04,153,SUPP005,6.39,true
+PROD000217,Clothing Item 217,Clothing,BookWorld,146.41,169.74,250,SUPP007,31.89,false
+PROD000218,Toys Item 218,Toys,SportZone,399.43,214.74,965,SUPP039,35.76,true
+PROD000219,Home & Garden Item 219,Home & Garden,BeautyPro,457.7,230.35,1000,SUPP028,3.63,true
+PROD000220,Books Item 220,Books,FashionHub,469.74,113.93,530,SUPP006,49.8,true
+PROD000221,Toys Item 221,Toys,HomeStyle,251.54,247.95,443,SUPP024,4.56,true
+PROD000222,Beauty Item 222,Beauty,SportZone,486.96,55.12,131,SUPP042,13.23,false
+PROD000223,Beauty Item 223,Beauty,FoodMart,368.3,93.78,642,SUPP046,6.72,true
+PROD000224,Home & Garden Item 224,Home & Garden,ToyLand,239.39,41.67,804,SUPP038,35.04,true
+PROD000225,Toys Item 225,Toys,BeautyPro,475.13,245.15,296,SUPP014,1.12,true
+PROD000226,Food Item 226,Food,ToyLand,228.51,188.43,646,SUPP028,20.51,false
+PROD000227,Books Item 227,Books,HomeStyle,21.25,148.77,732,SUPP044,35.7,false
+PROD000228,Food Item 228,Food,FoodMart,489.76,70.12,481,SUPP047,41.59,true
+PROD000229,Books Item 229,Books,FashionHub,168.9,207.37,636,SUPP023,36.16,true
+PROD000230,Home & Garden Item 230,Home & Garden,HomeStyle,148.56,110.3,812,SUPP026,28.89,true
+PROD000231,Books Item 231,Books,BeautyPro,480.84,36.53,291,SUPP038,42.35,true
+PROD000232,Beauty Item 232,Beauty,SportZone,287.97,21.19,162,SUPP033,33.87,false
+PROD000233,Sports Item 233,Sports,FoodMart,172.11,38.81,342,SUPP039,40.57,true
+PROD000234,Toys Item 234,Toys,FashionHub,426.49,61.9,391,SUPP028,21.05,true
+PROD000235,Clothing Item 235,Clothing,FoodMart,89.53,89.18,711,SUPP020,36.5,true
+PROD000236,Clothing Item 236,Clothing,FoodMart,494.9,162.81,343,SUPP006,10.86,true
+PROD000237,Food Item 237,Food,TechCorp,465.82,195.9,164,SUPP023,42.56,true
+PROD000238,Clothing Item 238,Clothing,BeautyPro,204.43,26.31,86,SUPP007,42.07,true
+PROD000239,Books Item 239,Books,FoodMart,198.67,64.2,600,SUPP033,9.8,false
+PROD000240,Books Item 240,Books,ToyLand,148.06,41.18,855,SUPP022,38.5,false
+PROD000241,Toys Item 241,Toys,SportZone,203.91,43.9,38,SUPP041,32.11,false
+PROD000242,Toys Item 242,Toys,BeautyPro,247.84,166.15,183,SUPP026,18.67,true
+PROD000243,Electronics Item 243,Electronics,BeautyPro,135.38,26.48,251,SUPP043,20.75,false
+PROD000244,Beauty Item 244,Beauty,HomeStyle,185.59,147.19,956,SUPP047,0.11,true
+PROD000245,Toys Item 245,Toys,BeautyPro,243.91,152.32,72,SUPP046,2.37,false
+PROD000246,Food Item 246,Food,FashionHub,175.27,72.17,272,SUPP025,44.9,false
+PROD000247,Toys Item 247,Toys,SportZone,313.66,94.22,248,SUPP018,22.82,true
+PROD000248,Beauty Item 248,Beauty,BookWorld,302.47,245.39,794,SUPP022,5.99,false
+PROD000249,Toys Item 249,Toys,BookWorld,480.03,198.54,929,SUPP033,9.44,false
+PROD000250,Toys Item 250,Toys,BeautyPro,10.67,82.86,512,SUPP019,34.26,false
+PROD000251,Home & Garden Item 251,Home & Garden,TechCorp,467.56,152.69,45,SUPP004,19.96,true
+PROD000252,Clothing Item 252,Clothing,SportZone,120.17,229.98,753,SUPP004,9.2,false
+PROD000253,Electronics Item 253,Electronics,ToyLand,253.06,218.18,605,SUPP004,10.11,false
+PROD000254,Food Item 254,Food,SportZone,273.02,72.31,293,SUPP049,4.92,false
+PROD000255,Clothing Item 255,Clothing,ToyLand,53.67,104.16,379,SUPP036,2.14,true
+PROD000256,Books Item 256,Books,BeautyPro,498.27,48.24,825,SUPP029,29.73,false
+PROD000257,Books Item 257,Books,SportZone,86.85,93.47,946,SUPP022,39.83,false
+PROD000258,Electronics Item 258,Electronics,FashionHub,27.0,243.87,819,SUPP002,12.86,false
+PROD000259,Clothing Item 259,Clothing,BeautyPro,163.69,248.16,846,SUPP042,43.22,false
+PROD000260,Sports Item 260,Sports,BeautyPro,252.41,137.45,586,SUPP032,3.55,true
+PROD000261,Books Item 261,Books,ToyLand,461.76,76.91,912,SUPP008,19.01,true
+PROD000262,Electronics Item 262,Electronics,TechCorp,469.1,234.66,342,SUPP002,34.16,true
+PROD000263,Food Item 263,Food,HomeStyle,434.09,234.53,854,SUPP021,33.33,false
+PROD000264,Toys Item 264,Toys,SportZone,468.46,117.08,551,SUPP031,10.75,true
+PROD000265,Toys Item 265,Toys,ToyLand,155.1,161.23,949,SUPP027,14.38,false
+PROD000266,Clothing Item 266,Clothing,ToyLand,207.83,148.59,336,SUPP035,3.71,true
+PROD000267,Food Item 267,Food,FoodMart,373.58,180.93,595,SUPP019,28.38,false
+PROD000268,Books Item 268,Books,BeautyPro,17.84,84.0,557,SUPP006,37.34,true
+PROD000269,Electronics Item 269,Electronics,FoodMart,73.7,158.51,127,SUPP046,43.46,true
+PROD000270,Electronics Item 270,Electronics,FoodMart,383.43,46.28,221,SUPP019,45.51,true
+PROD000271,Food Item 271,Food,FoodMart,340.14,93.37,430,SUPP005,42.63,true
+PROD000272,Sports Item 272,Sports,FoodMart,314.09,39.68,685,SUPP006,39.77,false
+PROD000273,Beauty Item 273,Beauty,TechCorp,118.76,120.92,781,SUPP035,23.76,true
+PROD000274,Books Item 274,Books,FashionHub,345.06,136.8,737,SUPP039,18.77,false
+PROD000275,Books Item 275,Books,TechCorp,55.21,190.73,850,SUPP040,5.62,true
+PROD000276,Toys Item 276,Toys,BookWorld,441.23,215.02,408,SUPP031,20.29,false
+PROD000277,Books Item 277,Books,ToyLand,121.28,12.77,934,SUPP050,49.0,true
+PROD000278,Toys Item 278,Toys,TechCorp,24.28,107.77,87,SUPP002,49.06,true
+PROD000279,Clothing Item 279,Clothing,TechCorp,281.13,179.23,51,SUPP025,15.81,false
+PROD000280,Electronics Item 280,Electronics,FoodMart,437.62,238.88,738,SUPP035,31.0,true
+PROD000281,Clothing Item 281,Clothing,HomeStyle,389.2,20.66,910,SUPP046,29.76,false
+PROD000282,Electronics Item 282,Electronics,ToyLand,348.49,188.97,255,SUPP046,34.63,true
+PROD000283,Food Item 283,Food,TechCorp,352.9,210.09,173,SUPP034,29.7,true
+PROD000284,Electronics Item 284,Electronics,TechCorp,25.35,201.86,801,SUPP041,30.58,true
+PROD000285,Beauty Item 285,Beauty,FoodMart,58.83,180.93,667,SUPP039,42.54,true
+PROD000286,Beauty Item 286,Beauty,FashionHub,368.08,86.4,848,SUPP041,12.72,true
+PROD000287,Beauty Item 287,Beauty,BookWorld,416.7,142.66,337,SUPP010,26.33,true
+PROD000288,Food Item 288,Food,BookWorld,33.45,209.65,943,SUPP027,47.25,false
+PROD000289,Beauty Item 289,Beauty,ToyLand,393.99,196.87,910,SUPP048,48.93,true
+PROD000290,Books Item 290,Books,BeautyPro,211.73,126.76,107,SUPP040,6.45,false
+PROD000291,Electronics Item 291,Electronics,FoodMart,421.47,136.22,131,SUPP014,4.18,false
+PROD000292,Toys Item 292,Toys,FashionHub,423.35,96.94,375,SUPP034,18.23,true
+PROD000293,Books Item 293,Books,ToyLand,350.45,148.98,20,SUPP046,9.66,true
+PROD000294,Books Item 294,Books,HomeStyle,288.29,244.03,985,SUPP012,25.38,true
+PROD000295,Electronics Item 295,Electronics,ToyLand,492.17,126.17,654,SUPP006,37.59,true
+PROD000296,Books Item 296,Books,BeautyPro,63.92,43.59,942,SUPP041,31.49,false
+PROD000297,Home & Garden Item 297,Home & Garden,FoodMart,477.91,233.1,834,SUPP048,17.64,true
+PROD000298,Clothing Item 298,Clothing,FoodMart,314.71,114.04,128,SUPP003,2.47,true
+PROD000299,Toys Item 299,Toys,HomeStyle,74.75,76.19,393,SUPP008,12.66,false
+PROD000300,Toys Item 300,Toys,SportZone,298.58,132.23,956,SUPP036,37.2,true
+PROD000301,Food Item 301,Food,HomeStyle,25.35,152.08,336,SUPP043,33.63,false
+PROD000302,Sports Item 302,Sports,BeautyPro,326.63,192.85,458,SUPP011,11.19,false
+PROD000303,Clothing Item 303,Clothing,SportZone,444.35,97.71,491,SUPP009,26.36,true
+PROD000304,Home & Garden Item 304,Home & Garden,FoodMart,171.78,61.07,634,SUPP046,14.82,true
+PROD000305,Toys Item 305,Toys,FashionHub,104.49,199.97,829,SUPP008,46.15,true
+PROD000306,Sports Item 306,Sports,HomeStyle,215.86,5.34,782,SUPP009,36.41,false
+PROD000307,Toys Item 307,Toys,TechCorp,59.66,157.23,311,SUPP043,48.37,false
+PROD000308,Electronics Item 308,Electronics,ToyLand,69.41,137.68,681,SUPP021,31.44,true
+PROD000309,Beauty Item 309,Beauty,BookWorld,34.42,164.87,69,SUPP007,17.31,true
+PROD000310,Sports Item 310,Sports,SportZone,399.91,37.48,307,SUPP016,5.56,false
+PROD000311,Sports Item 311,Sports,BookWorld,211.34,67.13,740,SUPP043,8.56,false
+PROD000312,Home & Garden Item 312,Home & Garden,ToyLand,458.03,107.56,229,SUPP030,1.71,true
+PROD000313,Food Item 313,Food,BeautyPro,349.31,67.6,426,SUPP002,49.64,true
+PROD000314,Sports Item 314,Sports,HomeStyle,299.79,25.94,795,SUPP024,28.49,true
+PROD000315,Clothing Item 315,Clothing,FashionHub,331.8,171.07,383,SUPP007,13.9,false
+PROD000316,Sports Item 316,Sports,FashionHub,281.45,176.2,474,SUPP048,49.38,true
+PROD000317,Food Item 317,Food,BookWorld,138.7,245.71,941,SUPP046,6.49,true
+PROD000318,Food Item 318,Food,SportZone,332.22,54.9,987,SUPP021,26.48,false
+PROD000319,Toys Item 319,Toys,BookWorld,315.55,125.32,321,SUPP047,48.72,true
+PROD000320,Books Item 320,Books,FashionHub,280.14,39.23,631,SUPP044,41.48,true
+PROD000321,Electronics Item 321,Electronics,TechCorp,213.14,207.49,942,SUPP038,40.17,false
+PROD000322,Food Item 322,Food,BeautyPro,80.08,138.76,735,SUPP015,45.66,true
+PROD000323,Beauty Item 323,Beauty,TechCorp,253.5,249.01,470,SUPP041,26.71,false
+PROD000324,Electronics Item 324,Electronics,FoodMart,422.27,144.0,864,SUPP043,23.43,true
+PROD000325,Home & Garden Item 325,Home & Garden,FashionHub,316.85,71.22,309,SUPP019,40.46,true
+PROD000326,Electronics Item 326,Electronics,FoodMart,236.01,102.59,56,SUPP045,42.81,true
+PROD000327,Clothing Item 327,Clothing,BookWorld,462.97,134.78,14,SUPP036,10.72,true
+PROD000328,Electronics Item 328,Electronics,FoodMart,240.79,180.4,345,SUPP008,4.26,false
+PROD000329,Books Item 329,Books,FashionHub,120.66,89.73,334,SUPP006,5.63,false
+PROD000330,Toys Item 330,Toys,ToyLand,342.52,77.5,679,SUPP020,43.26,false
+PROD000331,Electronics Item 331,Electronics,FoodMart,168.77,29.92,227,SUPP019,19.29,true
+PROD000332,Books Item 332,Books,BookWorld,415.3,156.31,262,SUPP046,38.6,false
+PROD000333,Toys Item 333,Toys,SportZone,434.67,108.77,31,SUPP034,1.82,true
+PROD000334,Beauty Item 334,Beauty,TechCorp,110.13,50.53,787,SUPP041,25.68,true
+PROD000335,Electronics Item 335,Electronics,ToyLand,257.29,64.87,360,SUPP029,28.9,true
+PROD000336,Toys Item 336,Toys,SportZone,85.77,45.56,913,SUPP040,4.5,false
+PROD000337,Clothing Item 337,Clothing,ToyLand,347.15,130.64,231,SUPP030,25.09,false
+PROD000338,Sports Item 338,Sports,ToyLand,376.94,24.1,909,SUPP023,8.12,false
+PROD000339,Beauty Item 339,Beauty,TechCorp,466.8,231.96,221,SUPP012,8.51,true
+PROD000340,Beauty Item 340,Beauty,TechCorp,408.5,165.06,559,SUPP042,31.3,true
+PROD000341,Beauty Item 341,Beauty,BookWorld,414.77,54.59,404,SUPP013,39.01,true
+PROD000342,Food Item 342,Food,TechCorp,381.06,84.73,908,SUPP005,9.23,false
+PROD000343,Sports Item 343,Sports,FoodMart,263.8,144.83,821,SUPP045,25.07,false
+PROD000344,Electronics Item 344,Electronics,FoodMart,92.24,15.4,581,SUPP015,39.59,true
+PROD000345,Toys Item 345,Toys,BookWorld,452.4,48.73,846,SUPP015,12.12,true
+PROD000346,Toys Item 346,Toys,TechCorp,324.44,210.65,637,SUPP042,45.16,true
+PROD000347,Beauty Item 347,Beauty,FoodMart,347.17,35.84,891,SUPP025,48.0,true
+PROD000348,Books Item 348,Books,BookWorld,127.26,203.16,368,SUPP046,1.17,true
+PROD000349,Books Item 349,Books,TechCorp,69.18,12.17,318,SUPP017,1.24,false
+PROD000350,Electronics Item 350,Electronics,TechCorp,236.67,215.75,308,SUPP006,41.74,false
+PROD000351,Toys Item 351,Toys,ToyLand,274.94,120.5,523,SUPP025,6.52,true
+PROD000352,Toys Item 352,Toys,ToyLand,207.96,13.11,592,SUPP018,23.46,true
+PROD000353,Clothing Item 353,Clothing,TechCorp,364.63,96.05,503,SUPP021,13.96,true
+PROD000354,Home & Garden Item 354,Home & Garden,BookWorld,202.47,195.25,691,SUPP023,16.05,false
+PROD000355,Toys Item 355,Toys,TechCorp,155.52,164.0,442,SUPP016,22.0,true
+PROD000356,Electronics Item 356,Electronics,TechCorp,106.35,68.71,151,SUPP027,49.88,false
+PROD000357,Sports Item 357,Sports,FashionHub,111.63,103.02,154,SUPP033,2.12,true
+PROD000358,Clothing Item 358,Clothing,BeautyPro,370.86,61.85,169,SUPP014,46.19,false
+PROD000359,Beauty Item 359,Beauty,BookWorld,459.85,192.74,917,SUPP033,12.17,true
+PROD000360,Home & Garden Item 360,Home & Garden,SportZone,121.64,38.58,318,SUPP046,32.08,true
+PROD000361,Food Item 361,Food,ToyLand,37.69,54.65,901,SUPP007,49.25,true
+PROD000362,Sports Item 362,Sports,FashionHub,164.89,26.62,419,SUPP007,18.05,true
+PROD000363,Home & Garden Item 363,Home & Garden,FashionHub,484.3,173.43,954,SUPP039,7.54,false
+PROD000364,Sports Item 364,Sports,SportZone,449.82,130.57,256,SUPP025,37.19,false
+PROD000365,Books Item 365,Books,SportZone,449.98,78.69,87,SUPP018,16.1,false
+PROD000366,Toys Item 366,Toys,FashionHub,371.8,154.7,188,SUPP027,36.33,false
+PROD000367,Electronics Item 367,Electronics,FashionHub,344.72,178.54,574,SUPP032,20.33,false
+PROD000368,Beauty Item 368,Beauty,FashionHub,438.66,41.18,370,SUPP039,17.52,false
+PROD000369,Clothing Item 369,Clothing,TechCorp,268.7,186.26,673,SUPP028,39.75,true
+PROD000370,Electronics Item 370,Electronics,SportZone,283.03,226.83,787,SUPP026,39.33,true
+PROD000371,Clothing Item 371,Clothing,TechCorp,223.69,142.73,762,SUPP046,40.75,false
+PROD000372,Food Item 372,Food,BookWorld,141.56,43.37,309,SUPP040,27.28,true
+PROD000373,Beauty Item 373,Beauty,BeautyPro,350.9,12.8,835,SUPP036,26.59,true
+PROD000374,Clothing Item 374,Clothing,BeautyPro,332.0,143.32,347,SUPP011,32.17,false
+PROD000375,Toys Item 375,Toys,SportZone,394.34,111.55,803,SUPP018,45.6,true
+PROD000376,Electronics Item 376,Electronics,BookWorld,101.86,239.1,74,SUPP036,36.89,false
+PROD000377,Sports Item 377,Sports,FoodMart,69.52,5.08,435,SUPP027,48.89,true
+PROD000378,Toys Item 378,Toys,SportZone,211.92,79.1,364,SUPP038,14.38,false
+PROD000379,Home & Garden Item 379,Home & Garden,FoodMart,341.19,143.53,859,SUPP017,8.79,false
+PROD000380,Home & Garden Item 380,Home & Garden,ToyLand,54.57,98.62,240,SUPP047,26.84,true
+PROD000381,Clothing Item 381,Clothing,FoodMart,464.32,246.89,699,SUPP017,14.22,true
+PROD000382,Electronics Item 382,Electronics,SportZone,77.99,230.16,304,SUPP032,21.04,true
+PROD000383,Electronics Item 383,Electronics,FashionHub,391.55,133.06,653,SUPP027,45.28,false
+PROD000384,Electronics Item 384,Electronics,TechCorp,274.61,239.64,425,SUPP030,44.76,false
+PROD000385,Beauty Item 385,Beauty,HomeStyle,355.21,8.74,737,SUPP032,15.36,false
+PROD000386,Books Item 386,Books,TechCorp,344.99,194.43,761,SUPP037,44.08,false
+PROD000387,Electronics Item 387,Electronics,TechCorp,477.48,117.16,499,SUPP027,12.01,true
+PROD000388,Clothing Item 388,Clothing,FashionHub,138.73,125.96,641,SUPP037,35.48,true
+PROD000389,Beauty Item 389,Beauty,BookWorld,49.36,233.19,717,SUPP039,15.45,false
+PROD000390,Home & Garden Item 390,Home & Garden,SportZone,48.1,99.3,273,SUPP017,23.2,true
+PROD000391,Beauty Item 391,Beauty,BookWorld,365.82,112.96,662,SUPP031,31.21,false
+PROD000392,Electronics Item 392,Electronics,FoodMart,203.11,213.74,290,SUPP025,17.87,true
+PROD000393,Food Item 393,Food,TechCorp,276.21,214.94,993,SUPP011,47.9,false
+PROD000394,Clothing Item 394,Clothing,BeautyPro,138.64,94.96,552,SUPP019,38.51,true
+PROD000395,Home & Garden Item 395,Home & Garden,FoodMart,201.29,196.54,778,SUPP032,28.73,false
+PROD000396,Books Item 396,Books,FashionHub,47.64,45.86,897,SUPP021,11.56,false
+PROD000397,Sports Item 397,Sports,ToyLand,410.77,92.24,976,SUPP017,44.18,true
+PROD000398,Food Item 398,Food,HomeStyle,38.53,222.12,655,SUPP039,45.4,true
+PROD000399,Food Item 399,Food,FashionHub,187.79,182.77,171,SUPP039,0.69,true
+PROD000400,Electronics Item 400,Electronics,FoodMart,110.23,200.87,615,SUPP018,44.09,true
+PROD000401,Books Item 401,Books,BookWorld,432.78,43.78,322,SUPP047,17.98,false
+PROD000402,Clothing Item 402,Clothing,TechCorp,180.42,192.76,554,SUPP020,6.9,false
+PROD000403,Home & Garden Item 403,Home & Garden,FashionHub,345.33,226.95,957,SUPP029,11.62,false
+PROD000404,Toys Item 404,Toys,BookWorld,119.25,147.45,566,SUPP001,45.26,false
+PROD000405,Sports Item 405,Sports,FashionHub,43.63,131.26,389,SUPP009,43.26,true
+PROD000406,Sports Item 406,Sports,SportZone,114.11,37.43,423,SUPP045,48.86,true
+PROD000407,Beauty Item 407,Beauty,SportZone,103.62,152.1,837,SUPP025,11.14,false
+PROD000408,Electronics Item 408,Electronics,TechCorp,421.44,83.49,350,SUPP035,46.7,true
+PROD000409,Beauty Item 409,Beauty,BeautyPro,56.74,205.97,685,SUPP020,16.8,true
+PROD000410,Food Item 410,Food,ToyLand,196.72,72.48,75,SUPP020,29.47,false
+PROD000411,Home & Garden Item 411,Home & Garden,BookWorld,251.86,95.66,533,SUPP003,23.75,true
+PROD000412,Food Item 412,Food,HomeStyle,22.37,126.08,666,SUPP031,35.55,true
+PROD000413,Food Item 413,Food,SportZone,92.12,16.21,970,SUPP047,28.72,true
+PROD000414,Food Item 414,Food,BeautyPro,108.68,224.37,409,SUPP001,18.24,false
+PROD000415,Sports Item 415,Sports,FoodMart,329.15,201.79,837,SUPP040,18.06,true
+PROD000416,Books Item 416,Books,HomeStyle,197.52,39.0,959,SUPP050,15.37,true
+PROD000417,Toys Item 417,Toys,HomeStyle,416.88,98.44,468,SUPP003,1.05,false
+PROD000418,Electronics Item 418,Electronics,TechCorp,483.5,86.67,675,SUPP047,10.49,true
+PROD000419,Electronics Item 419,Electronics,FashionHub,97.34,125.92,28,SUPP040,21.25,true
+PROD000420,Food Item 420,Food,TechCorp,428.01,187.51,322,SUPP032,4.77,false
+PROD000421,Clothing Item 421,Clothing,TechCorp,460.47,157.39,370,SUPP015,0.72,false
+PROD000422,Sports Item 422,Sports,SportZone,477.15,110.93,407,SUPP043,4.92,true
+PROD000423,Clothing Item 423,Clothing,HomeStyle,486.23,211.4,711,SUPP018,24.71,false
+PROD000424,Toys Item 424,Toys,FoodMart,37.75,158.84,138,SUPP019,7.49,false
+PROD000425,Toys Item 425,Toys,BookWorld,437.09,206.01,170,SUPP040,17.1,false
+PROD000426,Home & Garden Item 426,Home & Garden,ToyLand,79.64,13.1,872,SUPP015,4.61,false
+PROD000427,Beauty Item 427,Beauty,ToyLand,242.05,172.07,927,SUPP017,11.26,false
+PROD000428,Food Item 428,Food,BookWorld,332.49,204.75,542,SUPP006,11.63,false
+PROD000429,Sports Item 429,Sports,HomeStyle,84.1,81.7,9,SUPP002,39.58,true
+PROD000430,Clothing Item 430,Clothing,FoodMart,316.29,184.91,972,SUPP041,43.42,false
+PROD000431,Sports Item 431,Sports,BeautyPro,62.96,171.26,350,SUPP022,22.02,false
+PROD000432,Clothing Item 432,Clothing,HomeStyle,223.37,221.96,978,SUPP036,7.75,false
+PROD000433,Sports Item 433,Sports,FashionHub,133.0,218.5,692,SUPP029,5.02,false
+PROD000434,Toys Item 434,Toys,HomeStyle,351.28,100.73,674,SUPP010,28.63,false
+PROD000435,Clothing Item 435,Clothing,BeautyPro,176.11,38.74,84,SUPP026,23.76,true
+PROD000436,Sports Item 436,Sports,SportZone,478.23,178.01,750,SUPP049,20.51,false
+PROD000437,Home & Garden Item 437,Home & Garden,ToyLand,491.2,211.21,262,SUPP050,40.14,false
+PROD000438,Food Item 438,Food,ToyLand,319.42,63.33,916,SUPP034,30.61,false
+PROD000439,Clothing Item 439,Clothing,BookWorld,435.02,205.23,43,SUPP017,34.13,true
+PROD000440,Electronics Item 440,Electronics,ToyLand,420.83,236.81,60,SUPP012,23.83,false
+PROD000441,Home & Garden Item 441,Home & Garden,SportZone,314.96,120.43,601,SUPP014,18.04,false
+PROD000442,Home & Garden Item 442,Home & Garden,BeautyPro,330.85,220.35,535,SUPP029,26.94,false
+PROD000443,Home & Garden Item 443,Home & Garden,BookWorld,413.39,211.21,464,SUPP009,43.97,false
+PROD000444,Beauty Item 444,Beauty,BeautyPro,259.16,123.55,129,SUPP017,35.14,true
+PROD000445,Beauty Item 445,Beauty,BeautyPro,321.0,100.05,900,SUPP032,43.77,false
+PROD000446,Electronics Item 446,Electronics,ToyLand,163.93,229.17,282,SUPP045,9.41,true
+PROD000447,Books Item 447,Books,TechCorp,465.46,137.73,134,SUPP015,19.45,false
+PROD000448,Food Item 448,Food,TechCorp,241.83,233.59,962,SUPP016,5.64,true
+PROD000449,Food Item 449,Food,BeautyPro,87.31,43.8,549,SUPP016,46.88,true
+PROD000450,Beauty Item 450,Beauty,FashionHub,415.02,36.88,646,SUPP016,12.95,false
+PROD000451,Food Item 451,Food,ToyLand,333.47,243.4,511,SUPP018,23.36,false
+PROD000452,Books Item 452,Books,BeautyPro,107.76,234.36,772,SUPP035,21.88,true
+PROD000453,Home & Garden Item 453,Home & Garden,FoodMart,139.84,20.49,510,SUPP026,0.24,true
+PROD000454,Home & Garden Item 454,Home & Garden,BeautyPro,223.08,109.46,976,SUPP025,42.99,true
+PROD000455,Books Item 455,Books,HomeStyle,142.41,16.31,455,SUPP002,45.14,true
+PROD000456,Home & Garden Item 456,Home & Garden,BookWorld,137.49,43.31,764,SUPP005,3.51,true
+PROD000457,Books Item 457,Books,BeautyPro,24.26,175.74,22,SUPP035,34.34,true
+PROD000458,Clothing Item 458,Clothing,SportZone,72.26,43.03,68,SUPP038,37.63,false
+PROD000459,Beauty Item 459,Beauty,ToyLand,330.22,185.21,689,SUPP029,24.29,false
+PROD000460,Food Item 460,Food,SportZone,329.04,217.56,490,SUPP044,31.75,false
+PROD000461,Beauty Item 461,Beauty,SportZone,391.4,158.58,22,SUPP002,26.79,false
+PROD000462,Sports Item 462,Sports,TechCorp,315.83,30.45,58,SUPP042,21.51,false
+PROD000463,Beauty Item 463,Beauty,SportZone,118.46,31.94,925,SUPP014,28.18,true
+PROD000464,Electronics Item 464,Electronics,FoodMart,481.76,238.9,472,SUPP040,41.01,false
+PROD000465,Sports Item 465,Sports,HomeStyle,420.67,23.69,589,SUPP044,44.56,false
+PROD000466,Home & Garden Item 466,Home & Garden,HomeStyle,241.21,94.77,891,SUPP017,5.13,false
+PROD000467,Books Item 467,Books,BeautyPro,282.44,102.68,686,SUPP006,10.97,true
+PROD000468,Beauty Item 468,Beauty,SportZone,263.07,225.02,885,SUPP009,27.18,false
+PROD000469,Sports Item 469,Sports,FashionHub,378.76,186.73,906,SUPP044,9.35,false
+PROD000470,Food Item 470,Food,BeautyPro,89.04,248.2,499,SUPP040,3.87,false
+PROD000471,Home & Garden Item 471,Home & Garden,BookWorld,355.04,244.79,536,SUPP042,7.31,false
+PROD000472,Books Item 472,Books,ToyLand,156.81,66.83,437,SUPP029,20.41,true
+PROD000473,Books Item 473,Books,FashionHub,26.31,239.63,167,SUPP026,1.45,false
+PROD000474,Home & Garden Item 474,Home & Garden,ToyLand,30.45,81.11,214,SUPP010,14.86,true
+PROD000475,Sports Item 475,Sports,ToyLand,120.19,60.35,120,SUPP048,3.29,false
+PROD000476,Food Item 476,Food,SportZone,441.92,183.56,500,SUPP044,29.09,true
+PROD000477,Toys Item 477,Toys,FashionHub,344.32,32.17,952,SUPP044,38.02,false
+PROD000478,Beauty Item 478,Beauty,BeautyPro,385.0,23.4,979,SUPP041,8.32,false
+PROD000479,Food Item 479,Food,BeautyPro,28.98,104.46,957,SUPP001,40.07,false
+PROD000480,Sports Item 480,Sports,HomeStyle,396.91,65.13,66,SUPP048,32.93,false
+PROD000481,Books Item 481,Books,FoodMart,485.71,120.89,564,SUPP044,32.62,false
+PROD000482,Toys Item 482,Toys,TechCorp,114.96,65.18,786,SUPP036,20.5,false
+PROD000483,Food Item 483,Food,HomeStyle,67.66,110.23,869,SUPP021,37.65,false
+PROD000484,Clothing Item 484,Clothing,FoodMart,50.26,190.0,604,SUPP027,31.03,true
+PROD000485,Clothing Item 485,Clothing,FashionHub,285.84,175.94,56,SUPP008,37.84,false
+PROD000486,Electronics Item 486,Electronics,ToyLand,51.11,130.22,901,SUPP008,30.29,true
+PROD000487,Electronics Item 487,Electronics,BeautyPro,466.91,242.63,0,SUPP046,19.75,true
+PROD000488,Electronics Item 488,Electronics,FoodMart,216.95,118.82,338,SUPP022,35.29,false
+PROD000489,Electronics Item 489,Electronics,FoodMart,282.55,206.69,269,SUPP014,36.79,true
+PROD000490,Home & Garden Item 490,Home & Garden,BookWorld,374.02,142.8,705,SUPP041,22.52,true
+PROD000491,Home & Garden Item 491,Home & Garden,FoodMart,61.81,176.08,596,SUPP020,32.1,false
+PROD000492,Food Item 492,Food,TechCorp,83.15,32.96,412,SUPP016,28.1,false
+PROD000493,Food Item 493,Food,ToyLand,78.05,184.58,841,SUPP040,25.65,true
+PROD000494,Beauty Item 494,Beauty,SportZone,223.66,207.36,396,SUPP043,40.63,false
+PROD000495,Home & Garden Item 495,Home & Garden,BeautyPro,446.01,15.59,154,SUPP033,7.88,false
+PROD000496,Sports Item 496,Sports,BookWorld,458.98,84.47,171,SUPP043,28.07,false
+PROD000497,Food Item 497,Food,HomeStyle,294.62,108.34,574,SUPP001,35.44,false
+PROD000498,Sports Item 498,Sports,FashionHub,467.69,202.03,156,SUPP050,3.21,true
+PROD000499,Sports Item 499,Sports,HomeStyle,322.98,111.49,660,SUPP036,13.86,false
+PROD000500,Home & Garden Item 500,Home & Garden,FashionHub,378.17,212.06,969,SUPP032,29.76,true

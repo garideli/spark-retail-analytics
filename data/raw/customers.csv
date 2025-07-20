@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone,city,state,registration_date,loyalty_tier,total_spent
+CUST000001,David,Rodriguez,customer1@email.com,+17480240280,Chicago,TX,2023-08-07,Bronze,6412.19
+CUST000002,Michael,Brown,customer2@email.com,+13065107756,Los Angeles,PA,2024-04-01,Platinum,1070.37
+CUST000003,Emma,Smith,customer3@email.com,+19525792899,San Diego,CA,2024-12-27,Silver,672.75
+CUST000004,Michael,Davis,customer4@email.com,+17479267908,New York,CA,2023-09-09,Platinum,3734.52
+CUST000005,Michael,Johnson,customer5@email.com,+16230022046,New York,TX,2024-09-11,Bronze,4764.45
+CUST000006,Olivia,Smith,customer6@email.com,+14830931086,Dallas,IL,2024-01-29,Platinum,8072.04
+CUST000007,Sarah,Miller,customer7@email.com,+18589250334,Los Angeles,TX,2024-10-22,Gold,5219.77
+CUST000008,Emily,Smith,customer8@email.com,+15668242142,Philadelphia,TX,2023-12-04,Silver,6062.46
+CUST000009,Jane,Rodriguez,customer9@email.com,+13830601758,San Diego,CA,2024-05-08,Gold,7706.22
+CUST000010,David,Smith,customer10@email.com,+15727587211,Dallas,NY,2023-12-18,Bronze,8184.94
+CUST000011,Emma,Rodriguez,customer11@email.com,+12440648650,San Jose,CA,2025-06-09,Bronze,8987.56
+CUST000012,Robert,Johnson,customer12@email.com,+18922979256,San Jose,PA,2024-05-27,Platinum,8120.51
+CUST000013,David,Garcia,customer13@email.com,+17910532569,San Antonio,TX,2025-01-15,Bronze,1230.91
+CUST000014,James,Davis,customer14@email.com,+13884045794,Phoenix,CA,2024-10-18,Bronze,9645.65
+CUST000015,James,Williams,customer15@email.com,+19020147863,Chicago,CA,2024-03-08,Bronze,1252.9
+CUST000016,David,Johnson,customer16@email.com,+13977853303,Dallas,NY,2023-09-17,Bronze,5249.75
+CUST000017,John,Rodriguez,customer17@email.com,+19034380681,Chicago,CA,2023-08-03,Platinum,5922.4
+CUST000018,David,Miller,customer18@email.com,+19039252223,Dallas,AZ,2025-04-07,Bronze,6769.78
+CUST000019,Sarah,Davis,customer19@email.com,+19774243848,San Diego,TX,2025-03-03,Silver,5592.04
+CUST000020,Jane,Brown,customer20@email.com,+14119540376,Los Angeles,PA,2025-01-15,Gold,6507.59
+CUST000021,John,Smith,customer21@email.com,+13361505567,San Antonio,CA,2025-04-16,Silver,9073.69
+CUST000022,James,Davis,customer22@email.com,+17295048215,San Jose,NY,2024-12-22,Bronze,3588.25
+CUST000023,Olivia,Davis,customer23@email.com,+17704881412,San Jose,CA,2024-10-16,Silver,9967.69
+CUST000024,Jane,Miller,customer24@email.com,+16758448715,San Jose,CA,2024-12-16,Bronze,1313.96
+CUST000025,Michael,Brown,customer25@email.com,+15665392691,San Antonio,PA,2023-12-26,Silver,3178.68
+CUST000026,Emily,Davis,customer26@email.com,+16602282749,Philadelphia,AZ,2025-07-09,Platinum,2706.57
+CUST000027,Jane,Martinez,customer27@email.com,+16643530946,New York,TX,2025-02-07,Gold,3010.84
+CUST000028,Michael,Davis,customer28@email.com,+19078927218,Dallas,CA,2023-08-19,Gold,4426.63
+CUST000029,David,Davis,customer29@email.com,+16956231333,Philadelphia,CA,2024-01-04,Bronze,1353.17
+CUST000030,David,Martinez,customer30@email.com,+15221382771,New York,PA,2024-07-09,Bronze,7558.82
+CUST000031,Sarah,Davis,customer31@email.com,+13063275483,Dallas,CA,2024-07-03,Platinum,7716.26
+CUST000032,Sarah,Brown,customer32@email.com,+12380387342,San Diego,CA,2024-10-25,Bronze,1596.55
+CUST000033,John,Miller,customer33@email.com,+14705815167,San Jose,TX,2023-11-24,Silver,7149.25
+CUST000034,Emily,Williams,customer34@email.com,+19871451028,San Antonio,PA,2023-09-29,Platinum,534.42
+CUST000035,Robert,Rodriguez,customer35@email.com,+13945914881,Houston,TX,2023-11-22,Gold,1760.5
+CUST000036,Emma,Johnson,customer36@email.com,+16076748362,Phoenix,PA,2024-11-21,Gold,1832.64
+CUST000037,Sarah,Miller,customer37@email.com,+12055491202,San Diego,TX,2023-08-26,Gold,2482.7
+CUST000038,Sarah,Martinez,customer38@email.com,+18387367234,Philadelphia,NY,2024-02-13,Silver,9632.3
+CUST000039,Olivia,Martinez,customer39@email.com,+16354022335,Dallas,CA,2024-08-02,Platinum,1757.83
+CUST000040,Jane,Garcia,customer40@email.com,+14438609448,San Diego,TX,2025-04-27,Gold,1304.31
+CUST000041,Michael,Smith,customer41@email.com,+15707798525,Philadelphia,IL,2023-12-20,Gold,372.49
+CUST000042,Michael,Davis,customer42@email.com,+16406132440,Dallas,IL,2024-10-04,Gold,7043.2
+CUST000043,Emily,Davis,customer43@email.com,+19330244897,Houston,TX,2025-04-24,Bronze,7336.89
+CUST000044,Robert,Jones,customer44@email.com,+14351403089,Chicago,PA,2024-12-30,Bronze,592.32
+CUST000045,Robert,Martinez,customer45@email.com,+18350888359,Philadelphia,IL,2024-02-02,Gold,7933.34
+CUST000046,Robert,Davis,customer46@email.com,+12795632773,Los Angeles,PA,2025-05-09,Gold,5585.85
+CUST000047,Sarah,Garcia,customer47@email.com,+13279089610,New York,TX,2024-12-25,Gold,8085.94
+CUST000048,Jane,Rodriguez,customer48@email.com,+18219247986,Phoenix,TX,2024-03-15,Gold,5949.12
+CUST000049,John,Jones,customer49@email.com,+15468278919,Chicago,TX,2025-02-21,Bronze,992.57
+CUST000050,David,Johnson,customer50@email.com,+19894148908,San Diego,AZ,2023-10-29,Gold,5982.74
+CUST000051,Emma,Brown,customer51@email.com,+15825021510,Houston,CA,2025-07-18,Silver,2306.24
+CUST000052,Jane,Rodriguez,customer52@email.com,+16834385613,Phoenix,IL,2024-07-20,Platinum,5527.03
+CUST000053,John,Williams,customer53@email.com,+13800924396,Houston,IL,2025-01-26,Bronze,2937.25
+CUST000054,Emma,Martinez,customer54@email.com,+12352418328,Chicago,TX,2024-01-08,Platinum,3175.21
+CUST000055,Sarah,Martinez,customer55@email.com,+14345524895,San Antonio,PA,2025-03-02,Bronze,5865.7
+CUST000056,Michael,Jones,customer56@email.com,+15030969212,San Antonio,TX,2024-08-31,Silver,5173.69
+CUST000057,Olivia,Brown,customer57@email.com,+14160049506,Los Angeles,TX,2024-07-14,Platinum,160.3
+CUST000058,Emily,Jones,customer58@email.com,+13153469183,New York,NY,2023-12-03,Silver,4345.89
+CUST000059,Robert,Williams,customer59@email.com,+15476247431,Houston,IL,2024-12-04,Platinum,799.01
+CUST000060,Robert,Garcia,customer60@email.com,+19915600592,New York,CA,2025-03-10,Platinum,7638.14
+CUST000061,David,Garcia,customer61@email.com,+16647351388,Los Angeles,PA,2025-04-16,Bronze,4746.02
+CUST000062,Olivia,Williams,customer62@email.com,+12662686772,San Jose,NY,2023-07-29,Platinum,5892.78
+CUST000063,Robert,Garcia,customer63@email.com,+17894109749,San Diego,CA,2024-04-17,Gold,6399.99
+CUST000064,Sarah,Smith,customer64@email.com,+12456104780,Los Angeles,PA,2025-04-23,Bronze,4739.36
+CUST000065,Sarah,Martinez,customer65@email.com,+16683961030,Chicago,CA,2024-07-19,Bronze,7928.84
+CUST000066,James,Smith,customer66@email.com,+15900528259,Philadelphia,TX,2023-12-30,Gold,7941.63
+CUST000067,Emily,Johnson,customer67@email.com,+14187872688,Dallas,AZ,2024-04-06,Silver,9929.35
+CUST000068,John,Johnson,customer68@email.com,+19868305285,Houston,NY,2024-08-02,Silver,1385.68
+CUST000069,Emily,Martinez,customer69@email.com,+15758820401,San Diego,TX,2025-01-25,Bronze,6847.63
+CUST000070,Robert,Jones,customer70@email.com,+18431618500,San Diego,AZ,2024-11-18,Platinum,9391.5
+CUST000071,Olivia,Jones,customer71@email.com,+12027962548,Los Angeles,CA,2024-11-10,Platinum,4347.0
+CUST000072,James,Jones,customer72@email.com,+19342071989,Dallas,TX,2024-04-10,Bronze,6273.68
+CUST000073,Sarah,Miller,customer73@email.com,+15001765433,Philadelphia,CA,2024-08-20,Platinum,5658.89
+CUST000074,Sarah,Martinez,customer74@email.com,+18283181738,New York,CA,2023-12-14,Gold,641.29
+CUST000075,James,Smith,customer75@email.com,+18954501537,San Antonio,IL,2025-01-30,Gold,1768.16
+CUST000076,Robert,Jones,customer76@email.com,+15978696590,Philadelphia,CA,2024-03-24,Gold,7997.29
+CUST000077,Olivia,Garcia,customer77@email.com,+14629547440,San Diego,IL,2024-09-11,Gold,6691.06
+CUST000078,Sarah,Johnson,customer78@email.com,+12482100205,Houston,TX,2024-02-03,Gold,7491.67
+CUST000079,Sarah,Johnson,customer79@email.com,+14129905784,San Jose,TX,2025-02-03,Platinum,1013.98
+CUST000080,John,Johnson,customer80@email.com,+18792317897,San Jose,CA,2025-05-11,Gold,941.47
+CUST000081,Olivia,Johnson,customer81@email.com,+13017149169,New York,TX,2023-12-13,Gold,6769.26
+CUST000082,Emma,Williams,customer82@email.com,+13033173122,San Antonio,CA,2023-12-27,Platinum,211.53
+CUST000083,Jane,Williams,customer83@email.com,+18801806862,Los Angeles,CA,2024-11-09,Platinum,5625.51
+CUST000084,Robert,Johnson,customer84@email.com,+15851026218,Philadelphia,PA,2024-03-31,Platinum,9230.48
+CUST000085,Jane,Brown,customer85@email.com,+16792626400,Philadelphia,TX,2024-10-12,Gold,6314.76
+CUST000086,Olivia,Garcia,customer86@email.com,+15929271013,San Jose,TX,2024-07-25,Gold,7719.17
+CUST000087,David,Martinez,customer87@email.com,+14384185264,Houston,CA,2024-09-04,Bronze,1704.68
+CUST000088,Michael,Martinez,customer88@email.com,+15534030622,Phoenix,CA,2023-07-27,Gold,6284.22
+CUST000089,James,Rodriguez,customer89@email.com,+13873507427,San Antonio,AZ,2024-08-27,Gold,9741.13
+CUST000090,Robert,Martinez,customer90@email.com,+12698288210,Philadelphia,CA,2025-02-10,Bronze,444.38
+CUST000091,Jane,Jones,customer91@email.com,+17394293286,Los Angeles,IL,2024-04-02,Gold,4130.08
+CUST000092,Sarah,Davis,customer92@email.com,+19617431541,San Diego,TX,2024-11-13,Silver,7865.58
+CUST000093,Robert,Johnson,customer93@email.com,+18909789322,Dallas,CA,2024-10-02,Silver,7493.67
+CUST000094,Jane,Garcia,customer94@email.com,+19564369724,New York,TX,2025-04-09,Platinum,9691.99
+CUST000095,Emma,Rodriguez,customer95@email.com,+15063407701,Dallas,TX,2024-04-27,Platinum,883.55
+CUST000096,Olivia,Davis,customer96@email.com,+18993436609,San Antonio,CA,2024-09-13,Silver,751.5
+CUST000097,David,Davis,customer97@email.com,+15494655466,Los Angeles,TX,2025-04-08,Platinum,3425.0
+CUST000098,Emily,Smith,customer98@email.com,+19505621122,Dallas,CA,2025-07-10,Platinum,8484.96
+CUST000099,Jane,Johnson,customer99@email.com,+13760869437,Chicago,CA,2024-08-21,Gold,430.73
+CUST000100,John,Garcia,customer100@email.com,+16965310276,Dallas,TX,2024-05-07,Bronze,6783.97
+CUST000101,Jane,Miller,customer101@email.com,+15285552760,San Diego,TX,2023-09-04,Bronze,2444.6
+CUST000102,Emily,Martinez,customer102@email.com,+18314699237,New York,AZ,2025-05-07,Platinum,4418.13
+CUST000103,Jane,Rodriguez,customer103@email.com,+19581951925,New York,AZ,2023-09-20,Bronze,5123.88
+CUST000104,John,Davis,customer104@email.com,+14715395752,San Jose,CA,2025-05-30,Bronze,7998.0
+CUST000105,Sarah,Johnson,customer105@email.com,+13289672147,Los Angeles,CA,2025-06-14,Bronze,1149.2
+CUST000106,Jane,Martinez,customer106@email.com,+16083246649,Los Angeles,TX,2024-02-10,Platinum,8951.19
+CUST000107,Emma,Jones,customer107@email.com,+14156898113,Philadelphia,CA,2023-10-13,Silver,1848.33
+CUST000108,David,Garcia,customer108@email.com,+18760264247,Houston,TX,2024-06-10,Bronze,5924.64
+CUST000109,Emma,Davis,customer109@email.com,+17613019642,New York,CA,2024-01-05,Platinum,5999.11
+CUST000110,James,Garcia,customer110@email.com,+17004549311,Philadelphia,NY,2023-11-12,Bronze,4354.23
+CUST000111,Olivia,Garcia,customer111@email.com,+16219593599,Dallas,TX,2025-01-22,Gold,9609.34
+CUST000112,Sarah,Martinez,customer112@email.com,+17786763406,San Diego,CA,2024-05-31,Gold,1654.52
+CUST000113,James,Smith,customer113@email.com,+12209869924,Philadelphia,CA,2024-07-09,Silver,3692.45
+CUST000114,Jane,Martinez,customer114@email.com,+17778108521,Dallas,NY,2024-12-16,Silver,4705.52
+CUST000115,Olivia,Rodriguez,customer115@email.com,+16081072003,Phoenix,PA,2024-03-29,Gold,4677.1
+CUST000116,Emily,Johnson,customer116@email.com,+15590973445,Houston,NY,2025-03-30,Gold,1807.93
+CUST000117,David,Brown,customer117@email.com,+19107164372,San Antonio,TX,2024-06-11,Platinum,8742.79
+CUST000118,Sarah,Brown,customer118@email.com,+14732945183,Los Angeles,CA,2024-02-13,Gold,1542.64
+CUST000119,David,Smith,customer119@email.com,+17345445059,Phoenix,IL,2023-10-10,Platinum,8358.74
+CUST000120,Michael,Smith,customer120@email.com,+15410926674,Philadelphia,NY,2023-10-02,Platinum,5329.62
+CUST000121,Olivia,Jones,customer121@email.com,+12234718239,Dallas,TX,2025-07-17,Gold,3827.13
+CUST000122,Emily,Smith,customer122@email.com,+17405038224,Phoenix,AZ,2023-09-06,Gold,6315.58
+CUST000123,John,Miller,customer123@email.com,+17998512374,San Diego,CA,2024-05-18,Silver,3813.31
+CUST000124,David,Garcia,customer124@email.com,+12468239652,San Antonio,CA,2025-05-23,Gold,5710.55
+CUST000125,Robert,Brown,customer125@email.com,+15910135275,San Diego,IL,2025-01-10,Bronze,1481.28
+CUST000126,David,Miller,customer126@email.com,+13617479682,San Diego,TX,2025-04-05,Bronze,6916.73
+CUST000127,Emma,Brown,customer127@email.com,+18890681920,Dallas,TX,2024-06-28,Platinum,297.77
+CUST000128,David,Garcia,customer128@email.com,+13979660588,Chicago,CA,2023-08-21,Platinum,6843.7
+CUST000129,John,Garcia,customer129@email.com,+18437568014,San Jose,NY,2025-06-08,Platinum,3004.43
+CUST000130,John,Davis,customer130@email.com,+18659114014,Philadelphia,CA,2023-08-26,Bronze,9879.99
+CUST000131,James,Brown,customer131@email.com,+18864807503,New York,TX,2024-06-26,Gold,332.05
+CUST000132,Sarah,Johnson,customer132@email.com,+16700906067,Houston,AZ,2024-11-13,Platinum,9617.06
+CUST000133,David,Smith,customer133@email.com,+12150783759,Dallas,CA,2024-11-11,Gold,196.6
+CUST000134,Robert,Rodriguez,customer134@email.com,+13975825762,San Antonio,PA,2024-08-25,Silver,5730.29
+CUST000135,David,Davis,customer135@email.com,+12320943699,Los Angeles,TX,2024-11-29,Platinum,9191.25
+CUST000136,Emily,Garcia,customer136@email.com,+17911561946,Houston,CA,2025-03-23,Platinum,4580.12
+CUST000137,Emma,Williams,customer137@email.com,+18722850363,Philadelphia,CA,2025-03-12,Platinum,9559.68
+CUST000138,Olivia,Martinez,customer138@email.com,+16785785608,Los Angeles,AZ,2025-01-04,Platinum,1767.09
+CUST000139,David,Johnson,customer139@email.com,+12871099855,San Jose,TX,2024-11-28,Silver,7940.4
+CUST000140,Olivia,Brown,customer140@email.com,+17506246027,Phoenix,TX,2025-01-09,Silver,4372.39
+CUST000141,James,Smith,customer141@email.com,+19931725957,Chicago,TX,2023-07-24,Silver,1352.42
+CUST000142,Sarah,Martinez,customer142@email.com,+16963721496,San Jose,CA,2024-07-08,Gold,1621.61
+CUST000143,Michael,Rodriguez,customer143@email.com,+12047617050,Dallas,CA,2025-03-24,Bronze,9593.41
+CUST000144,James,Martinez,customer144@email.com,+16706006233,Los Angeles,PA,2024-08-12,Bronze,5513.65
+CUST000145,Emma,Brown,customer145@email.com,+15907534974,San Antonio,TX,2024-10-05,Bronze,6660.38
+CUST000146,David,Johnson,customer146@email.com,+16179617780,Phoenix,CA,2024-06-07,Gold,4413.16
+CUST000147,John,Miller,customer147@email.com,+18773780187,Phoenix,AZ,2024-12-10,Silver,6754.4
+CUST000148,Olivia,Martinez,customer148@email.com,+15437551890,San Diego,PA,2025-05-11,Bronze,566.06
+CUST000149,James,Williams,customer149@email.com,+15386612045,Chicago,CA,2024-10-26,Gold,1263.01
+CUST000150,John,Garcia,customer150@email.com,+19473816787,New York,TX,2025-02-17,Silver,7141.5
+CUST000151,Michael,Smith,customer151@email.com,+19344549613,Los Angeles,AZ,2024-08-28,Silver,1759.03
+CUST000152,David,Martinez,customer152@email.com,+13577438235,Dallas,TX,2024-02-18,Bronze,5365.11
+CUST000153,Emma,Smith,customer153@email.com,+12927061705,San Antonio,NY,2024-11-13,Silver,5433.59
+CUST000154,Jane,Smith,customer154@email.com,+16275368044,Phoenix,NY,2024-04-03,Gold,600.76
+CUST000155,David,Davis,customer155@email.com,+13682849157,Los Angeles,AZ,2025-04-07,Bronze,3512.49
+CUST000156,Robert,Johnson,customer156@email.com,+19231847923,Houston,CA,2024-10-10,Silver,924.11
+CUST000157,Sarah,Brown,customer157@email.com,+14914618934,Los Angeles,CA,2024-07-14,Silver,645.79
+CUST000158,Sarah,Miller,customer158@email.com,+14202549956,San Antonio,CA,2024-06-23,Silver,2983.43
+CUST000159,Robert,Brown,customer159@email.com,+14867414889,Los Angeles,PA,2024-07-12,Bronze,2384.45
+CUST000160,Michael,Brown,customer160@email.com,+16614153567,San Diego,TX,2024-08-23,Silver,1102.94
+CUST000161,Olivia,Davis,customer161@email.com,+18143131012,Los Angeles,TX,2025-01-03,Silver,4642.68
+CUST000162,Michael,Garcia,customer162@email.com,+18253250698,Dallas,NY,2025-02-11,Bronze,3319.76
+CUST000163,Emma,Garcia,customer163@email.com,+19117791588,Houston,TX,2024-10-20,Bronze,5624.1
+CUST000164,James,Williams,customer164@email.com,+19701979247,San Diego,CA,2024-01-13,Silver,1485.85
+CUST000165,Sarah,Martinez,customer165@email.com,+14993241373,San Antonio,PA,2024-09-24,Silver,5872.96
+CUST000166,Robert,Davis,customer166@email.com,+15438653727,Philadelphia,CA,2024-11-05,Bronze,9572.71
+CUST000167,Olivia,Rodriguez,customer167@email.com,+18956004167,Philadelphia,CA,2024-12-29,Silver,2818.48
+CUST000168,Sarah,Garcia,customer168@email.com,+18663566015,San Jose,CA,2024-05-22,Bronze,1354.32
+CUST000169,Emily,Garcia,customer169@email.com,+14445335974,Dallas,IL,2025-05-02,Platinum,2362.0
+CUST000170,Olivia,Jones,customer170@email.com,+12885362186,Chicago,PA,2025-04-24,Platinum,1032.35
+CUST000171,Robert,Martinez,customer171@email.com,+19244388727,Dallas,AZ,2025-04-23,Silver,4650.23
+CUST000172,Olivia,Johnson,customer172@email.com,+19696735032,San Diego,CA,2024-04-18,Platinum,7935.08
+CUST000173,Emily,Jones,customer173@email.com,+19176359959,Houston,TX,2025-02-04,Bronze,4520.66
+CUST000174,Jane,Johnson,customer174@email.com,+14897090735,Dallas,IL,2025-02-28,Platinum,9460.61
+CUST000175,Emma,Smith,customer175@email.com,+15291752979,San Antonio,NY,2023-11-11,Bronze,8395.38
+CUST000176,Jane,Miller,customer176@email.com,+19219743835,Philadelphia,TX,2024-09-14,Platinum,2931.75
+CUST000177,Jane,Jones,customer177@email.com,+18689583810,Chicago,CA,2025-02-07,Silver,5294.47
+CUST000178,Sarah,Brown,customer178@email.com,+15027370126,Chicago,PA,2023-12-06,Bronze,1822.2
+CUST000179,Jane,Williams,customer179@email.com,+17942540384,Houston,AZ,2025-01-27,Bronze,996.39
+CUST000180,David,Garcia,customer180@email.com,+12098830377,Philadelphia,TX,2025-04-19,Bronze,5963.9
+CUST000181,Emily,Williams,customer181@email.com,+18297082357,Los Angeles,TX,2023-08-18,Silver,9318.51
+CUST000182,Sarah,Smith,customer182@email.com,+15207678402,Dallas,IL,2024-03-17,Platinum,2639.19
+CUST000183,Michael,Martinez,customer183@email.com,+19084160529,New York,TX,2024-01-22,Platinum,1204.11
+CUST000184,Olivia,Martinez,customer184@email.com,+12731094478,San Diego,CA,2024-08-16,Silver,1551.83
+CUST000185,Olivia,Miller,customer185@email.com,+13814465645,Philadelphia,TX,2024-03-21,Gold,4340.23
+CUST000186,Robert,Smith,customer186@email.com,+13518465497,San Antonio,IL,2024-04-16,Silver,3118.96
+CUST000187,John,Miller,customer187@email.com,+14944321615,Los Angeles,AZ,2024-06-30,Bronze,6182.21
+CUST000188,Michael,Smith,customer188@email.com,+15470985311,Philadelphia,TX,2024-09-18,Silver,3648.64
+CUST000189,Olivia,Johnson,customer189@email.com,+16393372964,Dallas,CA,2024-05-25,Bronze,236.47
+CUST000190,David,Johnson,customer190@email.com,+19721113630,San Antonio,TX,2024-04-22,Gold,9684.76
+CUST000191,Sarah,Rodriguez,customer191@email.com,+17930116305,Philadelphia,PA,2025-06-19,Gold,4072.48
+CUST000192,James,Jones,customer192@email.com,+18236854782,New York,PA,2024-11-23,Platinum,2087.14
+CUST000193,Emily,Davis,customer193@email.com,+19683085120,Phoenix,TX,2024-12-16,Bronze,5125.22
+CUST000194,John,Brown,customer194@email.com,+12056863517,Phoenix,IL,2024-12-24,Silver,6530.5
+CUST000195,Emma,Smith,customer195@email.com,+12301475603,New York,NY,2024-11-08,Silver,3135.68
+CUST000196,Emily,Jones,customer196@email.com,+14164317111,Los Angeles,CA,2024-03-20,Silver,6781.49
+CUST000197,John,Martinez,customer197@email.com,+16349446568,Los Angeles,PA,2024-03-23,Gold,7637.55
+CUST000198,Michael,Rodriguez,customer198@email.com,+15170943872,San Diego,IL,2024-12-06,Platinum,767.61
+CUST000199,Jane,Smith,customer199@email.com,+17225312316,Philadelphia,TX,2025-02-17,Bronze,6481.0
+CUST000200,Michael,Rodriguez,customer200@email.com,+15341520339,Los Angeles,TX,2023-10-14,Platinum,1238.95
+CUST000201,Sarah,Martinez,customer201@email.com,+19259975486,Dallas,TX,2024-08-25,Silver,9009.77
+CUST000202,Robert,Martinez,customer202@email.com,+17089665584,San Jose,PA,2024-02-06,Bronze,5518.4
+CUST000203,Emma,Garcia,customer203@email.com,+19938087195,Los Angeles,PA,2024-11-15,Platinum,2032.01
+CUST000204,Michael,Garcia,customer204@email.com,+14253584408,Phoenix,TX,2025-04-26,Platinum,1650.07
+CUST000205,John,Miller,customer205@email.com,+13025378586,San Diego,CA,2025-03-03,Bronze,663.5
+CUST000206,Jane,Williams,customer206@email.com,+17429135136,San Jose,TX,2024-08-10,Silver,9890.93
+CUST000207,Jane,Johnson,customer207@email.com,+17367653772,Houston,CA,2023-09-28,Gold,2591.26
+CUST000208,Olivia,Smith,customer208@email.com,+14559888084,San Diego,TX,2025-07-15,Gold,865.58
+CUST000209,James,Smith,customer209@email.com,+16923588109,Los Angeles,NY,2025-04-16,Silver,4042.2
+CUST000210,Michael,Williams,customer210@email.com,+17210652539,New York,AZ,2024-07-12,Silver,5422.64
+CUST000211,Jane,Williams,customer211@email.com,+12048866844,San Diego,TX,2024-01-31,Platinum,9609.41
+CUST000212,Sarah,Smith,customer212@email.com,+19602997966,New York,IL,2025-04-17,Bronze,6939.76
+CUST000213,David,Garcia,customer213@email.com,+16079769104,San Diego,CA,2025-07-09,Gold,8970.34
+CUST000214,Sarah,Martinez,customer214@email.com,+19393809107,San Diego,PA,2025-01-11,Bronze,791.73
+CUST000215,Sarah,Smith,customer215@email.com,+14280234611,San Jose,TX,2024-02-10,Bronze,2348.16
+CUST000216,James,Miller,customer216@email.com,+13910732107,San Antonio,CA,2023-07-30,Platinum,8626.29
+CUST000217,Olivia,Johnson,customer217@email.com,+13515111785,Phoenix,CA,2023-11-15,Silver,1264.82
+CUST000218,Robert,Miller,customer218@email.com,+16348535695,Chicago,CA,2025-01-31,Gold,4717.29
+CUST000219,James,Jones,customer219@email.com,+12722626337,New York,NY,2024-06-28,Bronze,6106.24
+CUST000220,James,Rodriguez,customer220@email.com,+13293155141,Phoenix,IL,2025-01-20,Silver,1684.77
+CUST000221,James,Smith,customer221@email.com,+18470403191,New York,CA,2025-02-28,Bronze,3776.86
+CUST000222,Michael,Miller,customer222@email.com,+12497612961,New York,NY,2023-12-16,Gold,901.99
+CUST000223,Emma,Johnson,customer223@email.com,+17240600111,San Antonio,IL,2025-03-02,Platinum,1103.39
+CUST000224,Emma,Jones,customer224@email.com,+19788935921,Houston,AZ,2024-03-08,Platinum,5822.94
+CUST000225,Michael,Williams,customer225@email.com,+18613494144,Philadelphia,PA,2023-07-30,Bronze,9444.92
+CUST000226,Jane,Williams,customer226@email.com,+17875209815,San Diego,PA,2024-07-07,Gold,5218.5
+CUST000227,James,Jones,customer227@email.com,+15915842964,Dallas,PA,2024-09-16,Gold,3380.6
+CUST000228,John,Garcia,customer228@email.com,+12651812694,Chicago,AZ,2023-10-20,Silver,4810.92
+CUST000229,Emily,Jones,customer229@email.com,+16294716078,Houston,NY,2025-05-28,Silver,6461.95
+CUST000230,Emily,Jones,customer230@email.com,+18127503718,San Diego,TX,2024-06-03,Silver,8013.03
+CUST000231,David,Johnson,customer231@email.com,+18340996090,Phoenix,IL,2025-06-25,Gold,9822.32
+CUST000232,David,Jones,customer232@email.com,+12686935700,San Diego,IL,2023-07-31,Gold,4648.07
+CUST000233,Olivia,Rodriguez,customer233@email.com,+16310280403,Philadelphia,AZ,2024-08-18,Gold,8224.34
+CUST000234,David,Davis,customer234@email.com,+15841682651,San Antonio,CA,2025-05-17,Bronze,5004.0
+CUST000235,Emma,Smith,customer235@email.com,+17689984060,San Jose,TX,2024-04-18,Silver,2702.28
+CUST000236,James,Miller,customer236@email.com,+19698327953,Phoenix,TX,2024-02-10,Gold,8065.11
+CUST000237,John,Brown,customer237@email.com,+12689898936,Houston,NY,2023-12-28,Gold,7797.03
+CUST000238,Robert,Johnson,customer238@email.com,+16523151670,Los Angeles,TX,2024-03-19,Platinum,4150.19
+CUST000239,Olivia,Rodriguez,customer239@email.com,+16170923328,San Jose,TX,2025-01-30,Gold,6404.84
+CUST000240,David,Williams,customer240@email.com,+18277715420,New York,CA,2023-11-06,Silver,3181.23
+CUST000241,Sarah,Johnson,customer241@email.com,+13885370421,Philadelphia,AZ,2024-10-01,Bronze,7751.74
+CUST000242,Michael,Johnson,customer242@email.com,+12205682869,Dallas,IL,2025-05-21,Bronze,9861.86
+CUST000243,Emma,Johnson,customer243@email.com,+14323927174,San Diego,CA,2023-12-10,Platinum,185.89
+CUST000244,Emma,Jones,customer244@email.com,+13982475782,Los Angeles,AZ,2025-01-23,Platinum,4454.57
+CUST000245,David,Martinez,customer245@email.com,+13964253811,San Diego,PA,2024-10-13,Bronze,9245.06
+CUST000246,Michael,Garcia,customer246@email.com,+14778047105,Philadelphia,TX,2025-02-07,Silver,591.91
+CUST000247,Robert,Davis,customer247@email.com,+14901399514,Dallas,CA,2024-07-15,Silver,8513.66
+CUST000248,John,Smith,customer248@email.com,+15366312978,San Jose,PA,2023-10-06,Gold,5547.63
+CUST000249,John,Garcia,customer249@email.com,+16513429666,Dallas,TX,2025-03-19,Platinum,4472.84
+CUST000250,James,Smith,customer250@email.com,+16554381818,San Diego,PA,2024-09-18,Platinum,3361.59
+CUST000251,John,Smith,customer251@email.com,+14067940074,Los Angeles,CA,2025-04-25,Platinum,4122.86
+CUST000252,Sarah,Smith,customer252@email.com,+15207360204,Houston,PA,2024-07-29,Silver,6680.64
+CUST000253,Emma,Martinez,customer253@email.com,+13059232561,San Jose,CA,2024-06-08,Platinum,6616.72
+CUST000254,Jane,Rodriguez,customer254@email.com,+16972853482,San Jose,TX,2025-06-06,Bronze,9379.98
+CUST000255,Sarah,Garcia,customer255@email.com,+15874881385,Chicago,PA,2025-04-05,Silver,3545.95
+CUST000256,Michael,Miller,customer256@email.com,+16642802212,San Antonio,CA,2025-04-20,Bronze,2802.35
+CUST000257,David,Martinez,customer257@email.com,+12862090301,Dallas,TX,2024-04-12,Silver,1275.11
+CUST000258,Sarah,Jones,customer258@email.com,+12607751329,Dallas,NY,2023-07-30,Gold,9123.64
+CUST000259,David,Rodriguez,customer259@email.com,+18824461989,Dallas,TX,2024-07-21,Platinum,1421.28
+CUST000260,David,Martinez,customer260@email.com,+17293661896,Phoenix,CA,2025-05-25,Gold,7906.13
+CUST000261,John,Jones,customer261@email.com,+18184952650,Dallas,TX,2025-01-02,Bronze,3960.77
+CUST000262,James,Rodriguez,customer262@email.com,+16207747250,Houston,IL,2025-04-28,Platinum,1806.38
+CUST000263,James,Davis,customer263@email.com,+17751033110,Philadelphia,TX,2024-12-17,Platinum,2210.33
+CUST000264,Emily,Smith,customer264@email.com,+16667685413,San Jose,NY,2024-02-07,Gold,5183.43
+CUST000265,John,Smith,customer265@email.com,+13455792573,San Diego,NY,2024-05-07,Gold,1575.51
+CUST000266,David,Rodriguez,customer266@email.com,+15734303275,Dallas,NY,2024-08-18,Silver,4867.87
+CUST000267,John,Johnson,customer267@email.com,+16394059767,Chicago,PA,2023-11-14,Bronze,6402.36
+CUST000268,Michael,Miller,customer268@email.com,+18236422077,New York,CA,2025-06-09,Bronze,3476.46
+CUST000269,Michael,Johnson,customer269@email.com,+16142804893,Dallas,IL,2024-05-18,Platinum,8988.24
+CUST000270,Robert,Williams,customer270@email.com,+19005560740,San Jose,AZ,2024-04-04,Gold,2051.18
+CUST000271,Sarah,Garcia,customer271@email.com,+13137143796,Los Angeles,CA,2024-12-16,Bronze,9807.97
+CUST000272,John,Brown,customer272@email.com,+13383502972,Dallas,IL,2025-02-04,Silver,9784.21
+CUST000273,Olivia,Johnson,customer273@email.com,+18495841684,San Jose,CA,2024-08-26,Platinum,3608.4
+CUST000274,James,Williams,customer274@email.com,+12573159633,Dallas,CA,2024-10-08,Gold,2956.1
+CUST000275,Jane,Jones,customer275@email.com,+13604209340,New York,PA,2023-10-15,Bronze,3815.06
+CUST000276,Sarah,Smith,customer276@email.com,+13604068213,San Diego,NY,2025-02-19,Platinum,2595.61
+CUST000277,Emma,Johnson,customer277@email.com,+19528068902,San Diego,TX,2023-12-16,Bronze,6161.7
+CUST000278,Emma,Jones,customer278@email.com,+15438747073,Los Angeles,IL,2024-11-14,Platinum,4442.01
+CUST000279,Robert,Johnson,customer279@email.com,+17566176626,San Jose,TX,2024-10-02,Gold,4223.4
+CUST000280,David,Brown,customer280@email.com,+14397805895,Chicago,CA,2024-10-07,Platinum,5655.81
+CUST000281,Jane,Brown,customer281@email.com,+18138987384,Houston,PA,2025-04-13,Platinum,3574.79
+CUST000282,Jane,Rodriguez,customer282@email.com,+17184543175,San Antonio,AZ,2024-10-18,Silver,3705.87
+CUST000283,Robert,Martinez,customer283@email.com,+19219633672,Phoenix,TX,2025-01-19,Platinum,8766.68
+CUST000284,Emily,Johnson,customer284@email.com,+12731187669,Phoenix,NY,2024-06-25,Gold,2191.75
+CUST000285,Sarah,Garcia,customer285@email.com,+19285969672,Houston,TX,2025-02-24,Silver,3403.93
+CUST000286,Emma,Garcia,customer286@email.com,+15574660292,Philadelphia,CA,2024-09-11,Bronze,753.45
+CUST000287,Robert,Davis,customer287@email.com,+15377651866,Chicago,AZ,2023-12-03,Platinum,3407.2
+CUST000288,Michael,Jones,customer288@email.com,+18387568548,Philadelphia,CA,2024-01-05,Bronze,7016.17
+CUST000289,Emma,Miller,customer289@email.com,+14874757987,San Antonio,NY,2025-03-02,Platinum,1113.84
+CUST000290,James,Rodriguez,customer290@email.com,+17598870354,Los Angeles,AZ,2024-01-27,Platinum,177.13
+CUST000291,Jane,Garcia,customer291@email.com,+17464740560,New York,CA,2024-12-18,Gold,2282.8
+CUST000292,Robert,Rodriguez,customer292@email.com,+13463428968,Houston,TX,2024-10-01,Gold,4550.91
+CUST000293,James,Williams,customer293@email.com,+19308022694,San Antonio,AZ,2023-10-29,Gold,7423.74
+CUST000294,Olivia,Williams,customer294@email.com,+13567701735,San Antonio,CA,2025-03-02,Platinum,7957.67
+CUST000295,Robert,Davis,customer295@email.com,+14428180521,Chicago,IL,2024-10-24,Bronze,8137.61
+CUST000296,Emily,Williams,customer296@email.com,+13813873322,Houston,CA,2023-12-27,Bronze,4541.44
+CUST000297,Emily,Smith,customer297@email.com,+19293799841,San Antonio,IL,2024-05-26,Gold,6843.85
+CUST000298,Robert,Johnson,customer298@email.com,+18566267028,San Antonio,AZ,2025-04-13,Bronze,2722.3
+CUST000299,Robert,Davis,customer299@email.com,+14834737832,San Jose,TX,2023-10-14,Platinum,3477.17
+CUST000300,Emily,Jones,customer300@email.com,+13298584135,Chicago,CA,2023-12-14,Silver,8276.83
+CUST000301,Sarah,Rodriguez,customer301@email.com,+19394543179,San Antonio,IL,2025-05-04,Gold,6201.27
+CUST000302,David,Brown,customer302@email.com,+16963822092,Philadelphia,CA,2025-04-15,Silver,9725.21
+CUST000303,Emily,Davis,customer303@email.com,+17844206057,Chicago,TX,2024-01-14,Bronze,913.24
+CUST000304,Emily,Miller,customer304@email.com,+12473518444,Houston,NY,2023-07-23,Gold,4793.31
+CUST000305,Jane,Davis,customer305@email.com,+17839051777,Los Angeles,CA,2024-04-02,Bronze,4279.14
+CUST000306,Emma,Miller,customer306@email.com,+15378309017,San Antonio,CA,2024-10-27,Platinum,1804.23
+CUST000307,Sarah,Brown,customer307@email.com,+17749408352,New York,TX,2025-04-16,Silver,337.23
+CUST000308,Michael,Jones,customer308@email.com,+12830022934,San Antonio,TX,2023-11-05,Platinum,8260.36
+CUST000309,John,Davis,customer309@email.com,+19870304332,Houston,TX,2023-11-13,Gold,1000.56
+CUST000310,Emma,Garcia,customer310@email.com,+18061555063,Chicago,PA,2024-07-06,Platinum,9600.52
+CUST000311,Emily,Rodriguez,customer311@email.com,+12459227177,San Jose,CA,2024-09-13,Silver,5406.8
+CUST000312,James,Martinez,customer312@email.com,+12481435780,San Diego,CA,2025-03-26,Bronze,5857.18
+CUST000313,Michael,Martinez,customer313@email.com,+16715128606,Phoenix,IL,2025-06-16,Silver,8312.16
+CUST000314,Olivia,Brown,customer314@email.com,+19313362291,Phoenix,TX,2024-09-17,Platinum,6758.4
+CUST000315,John,Rodriguez,customer315@email.com,+13514164808,Philadelphia,NY,2025-03-12,Silver,2076.59
+CUST000316,Robert,Johnson,customer316@email.com,+17162737750,Philadelphia,TX,2024-03-30,Bronze,1263.81
+CUST000317,Emily,Smith,customer317@email.com,+15998666594,Los Angeles,PA,2025-07-10,Bronze,4549.64
+CUST000318,Michael,Martinez,customer318@email.com,+15284439291,Houston,PA,2023-07-26,Platinum,9355.33
+CUST000319,Sarah,Martinez,customer319@email.com,+16155356749,San Antonio,AZ,2025-01-29,Silver,585.09
+CUST000320,Robert,Miller,customer320@email.com,+17888968665,San Jose,CA,2024-11-23,Silver,3413.03
+CUST000321,James,Miller,customer321@email.com,+14108391154,New York,CA,2023-10-20,Gold,8288.19
+CUST000322,Emma,Garcia,customer322@email.com,+15986231363,Los Angeles,TX,2025-03-30,Platinum,1130.43
+CUST000323,Jane,Johnson,customer323@email.com,+17616275249,Los Angeles,PA,2023-11-24,Silver,7080.74
+CUST000324,Olivia,Miller,customer324@email.com,+19883988763,San Antonio,CA,2024-02-13,Platinum,7118.68
+CUST000325,Michael,Rodriguez,customer325@email.com,+18962535033,San Diego,NY,2024-04-12,Platinum,4010.15
+CUST000326,James,Smith,customer326@email.com,+19335678601,Phoenix,TX,2025-06-03,Platinum,8119.26
+CUST000327,Sarah,Garcia,customer327@email.com,+18776001106,Dallas,AZ,2024-10-09,Platinum,6992.32
+CUST000328,Olivia,Johnson,customer328@email.com,+15953299634,San Diego,CA,2023-10-26,Platinum,7976.66
+CUST000329,Emily,Miller,customer329@email.com,+16771063417,Phoenix,CA,2025-06-23,Bronze,6331.87
+CUST000330,Emma,Smith,customer330@email.com,+13522040110,Houston,NY,2024-08-07,Bronze,2851.72
+CUST000331,Sarah,Williams,customer331@email.com,+15080404638,San Diego,TX,2024-11-17,Silver,6785.94
+CUST000332,Sarah,Rodriguez,customer332@email.com,+14538433759,Phoenix,CA,2024-04-15,Bronze,6230.69
+CUST000333,Robert,Garcia,customer333@email.com,+19935289853,San Antonio,NY,2024-07-15,Silver,2044.96
+CUST000334,David,Garcia,customer334@email.com,+18446378685,San Jose,PA,2025-06-04,Gold,8559.01
+CUST000335,Robert,Davis,customer335@email.com,+15725748066,Dallas,TX,2024-11-12,Silver,1098.64
+CUST000336,John,Johnson,customer336@email.com,+18243852318,Houston,TX,2023-09-14,Bronze,2245.31
+CUST000337,John,Miller,customer337@email.com,+17756706930,Houston,TX,2024-01-10,Gold,140.98
+CUST000338,Robert,Brown,customer338@email.com,+19436397242,Houston,CA,2024-03-21,Platinum,5032.43
+CUST000339,John,Brown,customer339@email.com,+14897636353,Chicago,TX,2024-03-11,Bronze,1590.17
+CUST000340,Emma,Smith,customer340@email.com,+16591581654,San Jose,PA,2025-06-01,Platinum,1595.42
+CUST000341,Olivia,Martinez,customer341@email.com,+16296956649,Chicago,CA,2024-02-21,Gold,3225.2
+CUST000342,Emma,Brown,customer342@email.com,+18219860414,New York,NY,2024-09-03,Platinum,5409.55
+CUST000343,Sarah,Garcia,customer343@email.com,+13305699996,Chicago,TX,2024-04-24,Platinum,9068.24
+CUST000344,Emily,Johnson,customer344@email.com,+17157841029,Philadelphia,TX,2025-03-16,Platinum,8404.49
+CUST000345,Emily,Rodriguez,customer345@email.com,+12738253177,Houston,PA,2024-04-10,Gold,9162.6
+CUST000346,Jane,Rodriguez,customer346@email.com,+14555706120,Phoenix,NY,2023-08-10,Bronze,5883.19
+CUST000347,James,Smith,customer347@email.com,+15648254062,San Antonio,PA,2024-01-04,Platinum,3636.7
+CUST000348,Olivia,Johnson,customer348@email.com,+12351338746,San Jose,CA,2024-03-16,Bronze,5829.07
+CUST000349,Emma,Garcia,customer349@email.com,+12409259794,New York,TX,2025-04-27,Platinum,1952.85
+CUST000350,Michael,Jones,customer350@email.com,+16550074156,San Diego,TX,2023-12-15,Bronze,8552.19
+CUST000351,Olivia,Smith,customer351@email.com,+15614355452,Houston,PA,2024-09-21,Gold,4807.05
+CUST000352,Emily,Williams,customer352@email.com,+18644275651,Phoenix,PA,2024-05-25,Platinum,1712.13
+CUST000353,John,Miller,customer353@email.com,+16409273220,San Diego,NY,2024-08-06,Bronze,9949.53
+CUST000354,Emily,Martinez,customer354@email.com,+12236598806,Chicago,TX,2024-09-23,Silver,266.63
+CUST000355,Michael,Johnson,customer355@email.com,+19591849235,Chicago,CA,2023-08-30,Gold,4299.5
+CUST000356,Jane,Davis,customer356@email.com,+13914326321,Philadelphia,CA,2024-01-12,Gold,7556.31
+CUST000357,John,Davis,customer357@email.com,+16047511912,Chicago,CA,2025-05-11,Bronze,4600.74
+CUST000358,Sarah,Davis,customer358@email.com,+13785364823,San Diego,CA,2025-05-05,Platinum,1071.71
+CUST000359,John,Williams,customer359@email.com,+13254655446,Philadelphia,CA,2025-05-17,Platinum,1552.5
+CUST000360,Robert,Miller,customer360@email.com,+12868966530,San Diego,PA,2024-11-03,Gold,8793.57
+CUST000361,David,Davis,customer361@email.com,+12553743209,New York,IL,2023-10-05,Gold,6547.28
+CUST000362,Michael,Jones,customer362@email.com,+19147939787,San Jose,CA,2024-04-05,Bronze,6123.51
+CUST000363,Sarah,Davis,customer363@email.com,+16454453027,Dallas,TX,2025-05-28,Silver,7798.06
+CUST000364,Jane,Davis,customer364@email.com,+15348444375,Phoenix,CA,2023-12-18,Silver,9700.8
+CUST000365,Emily,Garcia,customer365@email.com,+15016702583,Chicago,NY,2024-09-22,Silver,3963.57
+CUST000366,Olivia,Rodriguez,customer366@email.com,+14424142827,Houston,CA,2023-10-21,Platinum,1805.53
+CUST000367,Michael,Smith,customer367@email.com,+14653958298,Phoenix,TX,2024-07-18,Bronze,6008.35
+CUST000368,Michael,Brown,customer368@email.com,+12544514610,Phoenix,TX,2023-12-23,Gold,7189.16
+CUST000369,Olivia,Rodriguez,customer369@email.com,+14209693208,Phoenix,NY,2024-09-28,Gold,6765.27
+CUST000370,John,Johnson,customer370@email.com,+16384359107,San Jose,TX,2025-04-27,Bronze,1859.52
+CUST000371,Olivia,Smith,customer371@email.com,+14291726843,San Antonio,TX,2023-07-27,Silver,9279.76
+CUST000372,James,Williams,customer372@email.com,+17434169652,Houston,IL,2023-08-11,Bronze,8495.73
+CUST000373,Michael,Davis,customer373@email.com,+12018090477,San Jose,PA,2025-01-02,Platinum,7267.73
+CUST000374,Olivia,Davis,customer374@email.com,+12783164368,San Antonio,CA,2024-01-26,Platinum,8854.31
+CUST000375,David,Rodriguez,customer375@email.com,+19990593363,Houston,CA,2024-06-13,Silver,9015.84
+CUST000376,John,Williams,customer376@email.com,+12280070433,Phoenix,NY,2025-07-07,Platinum,6832.07
+CUST000377,Olivia,Smith,customer377@email.com,+13056477905,San Jose,NY,2023-08-03,Gold,1812.99
+CUST000378,Sarah,Williams,customer378@email.com,+17164453018,Philadelphia,AZ,2023-08-03,Silver,261.26
+CUST000379,Robert,Garcia,customer379@email.com,+16917700418,San Antonio,TX,2024-11-30,Bronze,5359.42
+CUST000380,Michael,Garcia,customer380@email.com,+13978021427,San Jose,TX,2025-02-01,Silver,7029.5
+CUST000381,Sarah,Brown,customer381@email.com,+16961860132,Philadelphia,TX,2024-03-03,Silver,1673.05
+CUST000382,David,Davis,customer382@email.com,+19724986149,Philadelphia,CA,2024-09-12,Platinum,3195.43
+CUST000383,Sarah,Johnson,customer383@email.com,+17509918344,Philadelphia,AZ,2024-02-09,Silver,7912.34
+CUST000384,Emma,Jones,customer384@email.com,+16892282166,New York,TX,2024-05-14,Silver,6965.93
+CUST000385,Emma,Miller,customer385@email.com,+15612593293,San Jose,TX,2024-03-24,Silver,7421.58
+CUST000386,Olivia,Garcia,customer386@email.com,+19456699788,Chicago,TX,2024-06-15,Silver,8869.41
+CUST000387,Emma,Davis,customer387@email.com,+12010853748,Dallas,NY,2023-08-30,Bronze,5450.78
+CUST000388,Robert,Jones,customer388@email.com,+17514576899,San Jose,IL,2024-03-31,Gold,8711.21
+CUST000389,John,Johnson,customer389@email.com,+12228739958,Phoenix,TX,2024-10-29,Gold,3106.86
+CUST000390,James,Garcia,customer390@email.com,+14467920888,San Antonio,CA,2023-08-11,Bronze,4096.14
+CUST000391,Robert,Miller,customer391@email.com,+19285909185,Dallas,CA,2024-12-10,Silver,1223.47
+CUST000392,Jane,Garcia,customer392@email.com,+14556379188,Houston,TX,2024-06-11,Gold,5107.97
+CUST000393,Robert,Miller,customer393@email.com,+12054059016,Chicago,IL,2025-05-09,Platinum,7914.83
+CUST000394,David,Rodriguez,customer394@email.com,+15155925338,New York,AZ,2024-04-29,Gold,1964.38
+CUST000395,Emily,Garcia,customer395@email.com,+14590506690,Los Angeles,TX,2024-07-01,Bronze,4715.99
+CUST000396,Emily,Martinez,customer396@email.com,+12993358073,San Jose,PA,2024-12-11,Platinum,7423.74
+CUST000397,Sarah,Brown,customer397@email.com,+19810290736,Chicago,PA,2024-01-13,Platinum,5166.46
+CUST000398,Sarah,Rodriguez,customer398@email.com,+17043940555,San Jose,CA,2024-11-21,Silver,2562.17
+CUST000399,Jane,Martinez,customer399@email.com,+13954701346,San Antonio,TX,2025-01-31,Bronze,7315.51
+CUST000400,Sarah,Brown,customer400@email.com,+17935800580,Chicago,CA,2024-12-12,Silver,2623.17
+CUST000401,Robert,Smith,customer401@email.com,+13473828486,Philadelphia,TX,2025-02-14,Gold,3204.43
+CUST000402,Emma,Smith,customer402@email.com,+18637240144,Los Angeles,TX,2024-04-30,Gold,6821.76
+CUST000403,James,Jones,customer403@email.com,+16538787132,Houston,TX,2023-10-16,Silver,4404.76
+CUST000404,James,Brown,customer404@email.com,+15681950036,Chicago,TX,2024-09-05,Gold,2380.64
+CUST000405,David,Martinez,customer405@email.com,+16373941597,Los Angeles,TX,2024-12-10,Platinum,1094.45
+CUST000406,Sarah,Brown,customer406@email.com,+12251787466,San Jose,CA,2024-05-11,Silver,6828.18
+CUST000407,Sarah,Jones,customer407@email.com,+17602049698,San Diego,PA,2024-01-25,Bronze,3781.97
+CUST000408,Robert,Smith,customer408@email.com,+15774970845,Phoenix,PA,2024-10-31,Platinum,7671.21
+CUST000409,James,Martinez,customer409@email.com,+12430849532,Houston,IL,2024-07-24,Gold,7545.68
+CUST000410,Sarah,Williams,customer410@email.com,+12685894535,Phoenix,CA,2025-02-02,Bronze,8775.05
+CUST000411,David,Rodriguez,customer411@email.com,+17179588121,Los Angeles,NY,2024-04-03,Silver,5416.28
+CUST000412,Olivia,Jones,customer412@email.com,+18007032028,San Diego,PA,2024-04-20,Platinum,7357.56
+CUST000413,David,Williams,customer413@email.com,+14002497780,Houston,TX,2023-11-30,Bronze,7246.39
+CUST000414,Michael,Miller,customer414@email.com,+16829426932,Los Angeles,TX,2025-05-15,Bronze,956.8
+CUST000415,Emily,Smith,customer415@email.com,+14010595493,Phoenix,TX,2024-01-01,Bronze,9535.15
+CUST000416,Emma,Johnson,customer416@email.com,+18324737841,Phoenix,CA,2024-06-12,Bronze,9198.47
+CUST000417,Olivia,Brown,customer417@email.com,+13149765128,San Jose,CA,2025-05-25,Silver,6060.7
+CUST000418,Michael,Martinez,customer418@email.com,+15639163539,Phoenix,CA,2025-02-20,Platinum,6224.78
+CUST000419,David,Smith,customer419@email.com,+13672569794,San Jose,IL,2023-09-19,Bronze,802.37
+CUST000420,Sarah,Rodriguez,customer420@email.com,+12182919579,Houston,TX,2024-10-14,Bronze,1820.06
+CUST000421,Jane,Davis,customer421@email.com,+16093678146,Dallas,IL,2023-11-10,Silver,8810.14
+CUST000422,Jane,Martinez,customer422@email.com,+15666969289,Dallas,AZ,2024-05-13,Silver,8204.43
+CUST000423,Michael,Smith,customer423@email.com,+14393078703,San Jose,CA,2024-03-30,Platinum,7415.33
+CUST000424,David,Jones,customer424@email.com,+15650637052,Philadelphia,AZ,2024-04-16,Platinum,7258.41
+CUST000425,John,Brown,customer425@email.com,+15805074240,Philadelphia,CA,2023-11-21,Gold,2801.19
+CUST000426,Emily,Smith,customer426@email.com,+13420541312,Dallas,IL,2024-06-14,Gold,1682.96
+CUST000427,Olivia,Miller,customer427@email.com,+19204303116,Los Angeles,TX,2025-05-08,Platinum,8718.66
+CUST000428,Emma,Martinez,customer428@email.com,+14438715789,Philadelphia,TX,2025-03-11,Silver,7920.53
+CUST000429,Jane,Martinez,customer429@email.com,+18799389179,San Diego,CA,2024-02-19,Gold,8276.86
+CUST000430,Emily,Jones,customer430@email.com,+14447013579,Dallas,AZ,2023-08-14,Bronze,2748.27
+CUST000431,Michael,Miller,customer431@email.com,+14215120973,Dallas,TX,2025-05-14,Bronze,3876.91
+CUST000432,James,Smith,customer432@email.com,+18831981459,Dallas,NY,2023-11-28,Bronze,6170.49
+CUST000433,Michael,Williams,customer433@email.com,+19395502847,San Diego,CA,2025-05-22,Platinum,3118.76
+CUST000434,Emily,Jones,customer434@email.com,+16015691330,Los Angeles,IL,2025-02-18,Silver,5474.21
+CUST000435,John,Rodriguez,customer435@email.com,+19518524131,San Jose,PA,2024-11-16,Bronze,6597.21
+CUST000436,David,Davis,customer436@email.com,+15370724482,Chicago,IL,2023-12-11,Platinum,9585.57
+CUST000437,David,Williams,customer437@email.com,+15452505301,Phoenix,PA,2024-04-09,Bronze,4365.35
+CUST000438,Jane,Jones,customer438@email.com,+17541211282,San Antonio,CA,2024-03-15,Silver,7968.3
+CUST000439,Emma,Rodriguez,customer439@email.com,+16550582164,New York,PA,2024-03-03,Bronze,3573.55
+CUST000440,Michael,Johnson,customer440@email.com,+19115103729,Dallas,IL,2023-08-18,Gold,2751.78
+CUST000441,Emma,Jones,customer441@email.com,+12459404267,San Antonio,NY,2025-03-06,Silver,5067.7
+CUST000442,Robert,Williams,customer442@email.com,+19001016737,Phoenix,TX,2024-08-15,Gold,1745.98
+CUST000443,Emma,Miller,customer443@email.com,+17226399982,Dallas,PA,2024-07-22,Bronze,9988.52
+CUST000444,Jane,Brown,customer444@email.com,+15570684006,San Diego,CA,2025-07-14,Silver,1246.58
+CUST000445,Jane,Johnson,customer445@email.com,+14104803773,San Diego,TX,2023-11-29,Silver,8127.7
+CUST000446,David,Rodriguez,customer446@email.com,+19436731464,San Diego,CA,2025-05-11,Platinum,8619.86
+CUST000447,Jane,Davis,customer447@email.com,+15070102748,New York,CA,2025-07-19,Gold,1429.16
+CUST000448,Jane,Davis,customer448@email.com,+12315591819,San Antonio,PA,2025-04-04,Bronze,9413.05
+CUST000449,Jane,Brown,customer449@email.com,+13728426903,Houston,NY,2025-02-08,Platinum,3673.46
+CUST000450,Emma,Garcia,customer450@email.com,+14883785181,San Jose,NY,2024-11-16,Gold,1545.53
+CUST000451,Robert,Garcia,customer451@email.com,+15040901711,San Diego,TX,2023-12-05,Platinum,5634.27
+CUST000452,Emily,Smith,customer452@email.com,+14419826626,Houston,NY,2024-02-07,Gold,5433.41
+CUST000453,John,Smith,customer453@email.com,+16661064586,Houston,CA,2023-09-29,Platinum,3650.12
+CUST000454,Emma,Brown,customer454@email.com,+15144254688,San Antonio,NY,2024-10-30,Platinum,3481.9
+CUST000455,Jane,Rodriguez,customer455@email.com,+16502640594,San Diego,TX,2025-01-13,Bronze,9995.48
+CUST000456,Robert,Johnson,customer456@email.com,+12197949845,Houston,NY,2023-12-23,Platinum,9626.14
+CUST000457,Michael,Smith,customer457@email.com,+17769694140,Dallas,CA,2024-09-09,Gold,6753.64
+CUST000458,James,Davis,customer458@email.com,+15519781363,San Diego,CA,2024-03-15,Silver,4648.26
+CUST000459,Emma,Martinez,customer459@email.com,+19612744174,Dallas,PA,2023-12-30,Platinum,2115.92
+CUST000460,John,Davis,customer460@email.com,+17675633218,Houston,PA,2024-11-21,Silver,2200.31
+CUST000461,Emma,Martinez,customer461@email.com,+16086506076,New York,CA,2024-12-05,Bronze,3531.39
+CUST000462,Jane,Garcia,customer462@email.com,+13730640665,Los Angeles,CA,2024-09-15,Bronze,9603.62
+CUST000463,Olivia,Johnson,customer463@email.com,+12829552877,New York,TX,2024-08-21,Platinum,1812.06
+CUST000464,Emily,Garcia,customer464@email.com,+19582514248,Chicago,PA,2024-05-14,Silver,5369.4
+CUST000465,Sarah,Rodriguez,customer465@email.com,+14753134908,Phoenix,CA,2023-08-10,Silver,3619.2
+CUST000466,David,Martinez,customer466@email.com,+15926921592,Los Angeles,CA,2024-12-04,Platinum,9751.21
+CUST000467,John,Johnson,customer467@email.com,+17443090068,San Diego,TX,2025-05-15,Bronze,3297.86
+CUST000468,Jane,Johnson,customer468@email.com,+15688481189,San Diego,IL,2024-10-18,Silver,5779.14
+CUST000469,Jane,Garcia,customer469@email.com,+18134986424,San Jose,NY,2024-08-09,Gold,4121.19
+CUST000470,James,Rodriguez,customer470@email.com,+14584892032,Philadelphia,TX,2024-10-03,Gold,7335.79
+CUST000471,Emma,Miller,customer471@email.com,+14411794747,San Jose,IL,2025-02-07,Silver,6680.64
+CUST000472,Sarah,Jones,customer472@email.com,+16806741825,Philadelphia,CA,2024-11-15,Silver,7794.11
+CUST000473,Michael,Brown,customer473@email.com,+14626892025,New York,AZ,2025-07-10,Platinum,6576.29
+CUST000474,Robert,Martinez,customer474@email.com,+18795395520,Phoenix,AZ,2025-06-05,Silver,2886.24
+CUST000475,John,Jones,customer475@email.com,+12765600903,Chicago,TX,2023-11-25,Platinum,6212.82
+CUST000476,John,Jones,customer476@email.com,+17403996389,New York,TX,2024-09-26,Platinum,6840.45
+CUST000477,Sarah,Smith,customer477@email.com,+14553231724,San Antonio,PA,2025-05-29,Bronze,7040.27
+CUST000478,John,Johnson,customer478@email.com,+13155686678,Chicago,TX,2025-02-17,Bronze,1236.43
+CUST000479,Jane,Williams,customer479@email.com,+16927627193,Houston,CA,2025-07-11,Gold,6293.68
+CUST000480,Robert,Brown,customer480@email.com,+13446379710,Dallas,CA,2023-11-08,Silver,2879.27
+CUST000481,Michael,Smith,customer481@email.com,+15968545653,Los Angeles,TX,2024-04-13,Bronze,835.02
+CUST000482,Emily,Johnson,customer482@email.com,+17496270422,Philadelphia,IL,2023-08-06,Platinum,7987.88
+CUST000483,Michael,Rodriguez,customer483@email.com,+14720012444,San Antonio,CA,2024-02-03,Silver,1862.79
+CUST000484,Emma,Martinez,customer484@email.com,+13354942487,Philadelphia,IL,2024-06-17,Platinum,4017.34
+CUST000485,John,Miller,customer485@email.com,+17148329759,Phoenix,NY,2024-01-05,Silver,4566.07
+CUST000486,Olivia,Johnson,customer486@email.com,+19796539520,Dallas,NY,2024-03-12,Bronze,2044.33
+CUST000487,Robert,Rodriguez,customer487@email.com,+13908654686,San Jose,CA,2024-07-12,Gold,6813.24
+CUST000488,Emma,Garcia,customer488@email.com,+19481981255,Chicago,CA,2023-07-23,Platinum,1346.48
+CUST000489,Jane,Williams,customer489@email.com,+16253863550,San Diego,CA,2025-03-20,Gold,5574.88
+CUST000490,Emily,Martinez,customer490@email.com,+12701541696,Chicago,CA,2025-03-23,Gold,8516.99
+CUST000491,James,Davis,customer491@email.com,+17137633884,Dallas,TX,2025-07-02,Silver,5616.39
+CUST000492,Sarah,Martinez,customer492@email.com,+19547624928,San Antonio,CA,2024-04-13,Bronze,1920.13
+CUST000493,Robert,Jones,customer493@email.com,+15341967422,Phoenix,AZ,2024-11-10,Silver,8991.63
+CUST000494,Robert,Williams,customer494@email.com,+17610423480,Los Angeles,PA,2024-04-12,Silver,6654.7
+CUST000495,David,Davis,customer495@email.com,+18340326028,Los Angeles,CA,2024-07-25,Silver,8375.87
+CUST000496,Olivia,Brown,customer496@email.com,+19226773086,San Antonio,CA,2024-07-22,Silver,6560.07
+CUST000497,Emily,Davis,customer497@email.com,+12268920773,Dallas,AZ,2025-01-14,Platinum,5531.0
+CUST000498,Emma,Davis,customer498@email.com,+13713265886,Philadelphia,AZ,2023-07-23,Silver,2966.57
+CUST000499,Emma,Johnson,customer499@email.com,+16686403561,San Antonio,PA,2024-12-15,Gold,3409.84
+CUST000500,Sarah,Smith,customer500@email.com,+16480466925,Philadelphia,TX,2025-07-08,Bronze,9795.59
+CUST000501,Robert,Brown,customer501@email.com,+14939125608,Dallas,AZ,2024-06-30,Silver,3856.53
+CUST000502,Sarah,Rodriguez,customer502@email.com,+14126388696,Chicago,NY,2024-09-08,Platinum,5161.48
+CUST000503,James,Davis,customer503@email.com,+18148464900,Chicago,CA,2025-06-22,Silver,966.0
+CUST000504,James,Smith,customer504@email.com,+18690061161,Houston,PA,2024-06-10,Silver,7404.96
+CUST000505,John,Jones,customer505@email.com,+14258327789,Dallas,TX,2024-02-05,Silver,1592.72
+CUST000506,David,Miller,customer506@email.com,+18531209716,San Antonio,PA,2024-12-20,Gold,9668.73
+CUST000507,David,Martinez,customer507@email.com,+15459943724,San Jose,CA,2024-03-20,Gold,2202.35
+CUST000508,David,Brown,customer508@email.com,+15907903645,San Jose,NY,2024-06-15,Bronze,5028.47
+CUST000509,Olivia,Garcia,customer509@email.com,+19743817055,San Antonio,IL,2024-06-03,Gold,3397.0
+CUST000510,Sarah,Rodriguez,customer510@email.com,+12000275248,Los Angeles,CA,2024-06-15,Gold,2931.87
+CUST000511,Olivia,Williams,customer511@email.com,+19123333331,San Jose,CA,2024-12-04,Silver,9318.93
+CUST000512,Jane,Smith,customer512@email.com,+17711110032,San Diego,TX,2024-07-25,Bronze,2760.36
+CUST000513,John,Smith,customer513@email.com,+14708188996,Phoenix,TX,2024-01-28,Gold,9724.54
+CUST000514,John,Davis,customer514@email.com,+14450570607,Philadelphia,TX,2024-09-13,Silver,8957.25
+CUST000515,Jane,Smith,customer515@email.com,+18837403497,Dallas,TX,2024-12-20,Bronze,2786.59
+CUST000516,Michael,Jones,customer516@email.com,+14717568537,Dallas,TX,2025-07-17,Bronze,9767.83
+CUST000517,Sarah,Miller,customer517@email.com,+15483961412,Dallas,PA,2024-11-05,Silver,7897.12
+CUST000518,Michael,Johnson,customer518@email.com,+14305902168,San Jose,CA,2024-06-03,Bronze,899.22
+CUST000519,Jane,Miller,customer519@email.com,+17478107561,San Jose,CA,2024-01-18,Gold,6997.31
+CUST000520,Olivia,Brown,customer520@email.com,+17388886026,San Jose,CA,2024-04-19,Silver,4326.56
+CUST000521,James,Miller,customer521@email.com,+15772655342,Philadelphia,PA,2024-04-04,Bronze,8726.58
+CUST000522,Jane,Rodriguez,customer522@email.com,+18164056886,Chicago,TX,2025-04-13,Silver,1009.83
+CUST000523,Emily,Williams,customer523@email.com,+16946204096,Chicago,TX,2025-02-04,Silver,3095.51
+CUST000524,Robert,Miller,customer524@email.com,+13967324627,New York,CA,2025-04-29,Gold,8741.61
+CUST000525,John,Rodriguez,customer525@email.com,+13176142762,Phoenix,PA,2024-07-05,Bronze,2829.58
+CUST000526,Robert,Johnson,customer526@email.com,+14273360697,Los Angeles,PA,2024-02-25,Gold,1958.18
+CUST000527,Emma,Jones,customer527@email.com,+16150177061,San Jose,IL,2024-05-17,Bronze,9479.85
+CUST000528,Sarah,Rodriguez,customer528@email.com,+15897638181,San Antonio,TX,2024-04-13,Gold,9004.65
+CUST000529,Sarah,Rodriguez,customer529@email.com,+17716528805,San Diego,PA,2025-01-24,Bronze,1670.13
+CUST000530,James,Rodriguez,customer530@email.com,+16228583716,Los Angeles,PA,2024-06-26,Bronze,5510.66
+CUST000531,James,Garcia,customer531@email.com,+14233170462,Philadelphia,CA,2023-11-19,Bronze,4696.45
+CUST000532,Olivia,Miller,customer532@email.com,+16957606344,Philadelphia,PA,2024-02-29,Bronze,233.25
+CUST000533,James,Martinez,customer533@email.com,+18347981571,Phoenix,CA,2024-05-04,Platinum,4934.57
+CUST000534,Robert,Davis,customer534@email.com,+18658055592,San Antonio,NY,2024-12-16,Platinum,4737.98
+CUST000535,Michael,Garcia,customer535@email.com,+16628739067,Houston,TX,2023-11-02,Platinum,7272.77
+CUST000536,Emily,Martinez,customer536@email.com,+12946098039,Chicago,CA,2024-08-11,Bronze,7046.0
+CUST000537,Jane,Rodriguez,customer537@email.com,+18381851304,Houston,TX,2023-07-30,Bronze,4961.43
+CUST000538,David,Williams,customer538@email.com,+12597732282,Chicago,CA,2023-12-13,Gold,8387.19
+CUST000539,Jane,Johnson,customer539@email.com,+16929570149,San Jose,TX,2024-10-25,Gold,3215.51
+CUST000540,Jane,Jones,customer540@email.com,+15075662200,Los Angeles,PA,2024-11-24,Gold,2765.38
+CUST000541,Emma,Martinez,customer541@email.com,+14612602380,San Jose,TX,2025-06-20,Bronze,4019.08
+CUST000542,Sarah,Jones,customer542@email.com,+19862135223,Dallas,NY,2025-06-15,Platinum,1999.14
+CUST000543,Emily,Martinez,customer543@email.com,+19539656770,New York,TX,2023-08-30,Platinum,9311.66
+CUST000544,David,Miller,customer544@email.com,+14381526630,Dallas,IL,2023-10-29,Bronze,2909.53
+CUST000545,Emily,Miller,customer545@email.com,+15640392922,San Jose,TX,2023-12-01,Silver,6910.7
+CUST000546,Emily,Rodriguez,customer546@email.com,+17068834553,New York,TX,2024-05-04,Bronze,2121.83
+CUST000547,Sarah,Miller,customer547@email.com,+19155213595,New York,CA,2024-08-09,Bronze,7372.92
+CUST000548,Emily,Williams,customer548@email.com,+13495295121,San Diego,TX,2024-08-29,Silver,7568.2
+CUST000549,John,Brown,customer549@email.com,+18213751851,Philadelphia,TX,2024-04-17,Gold,7306.52
+CUST000550,Michael,Rodriguez,customer550@email.com,+15450064470,Los Angeles,AZ,2025-01-29,Gold,9033.91
+CUST000551,James,Davis,customer551@email.com,+17422785267,San Antonio,TX,2023-12-14,Gold,9458.22
+CUST000552,Jane,Brown,customer552@email.com,+19203090248,Phoenix,CA,2024-12-19,Silver,6531.24
+CUST000553,Olivia,Brown,customer553@email.com,+15455244923,San Antonio,IL,2025-04-08,Platinum,4573.16
+CUST000554,Michael,Brown,customer554@email.com,+17946066289,Chicago,TX,2024-12-14,Platinum,2152.72
+CUST000555,Sarah,Smith,customer555@email.com,+17925054740,San Diego,CA,2023-11-20,Gold,4879.56
+CUST000556,Emma,Rodriguez,customer556@email.com,+14417251165,Phoenix,NY,2024-07-30,Platinum,7885.48
+CUST000557,James,Williams,customer557@email.com,+18223884120,Houston,AZ,2025-05-24,Platinum,5809.48
+CUST000558,Robert,Williams,customer558@email.com,+13630840497,Phoenix,IL,2024-07-25,Bronze,2691.97
+CUST000559,Emily,Jones,customer559@email.com,+12089975899,Phoenix,TX,2023-11-18,Gold,8208.3
+CUST000560,Emily,Garcia,customer560@email.com,+18277438514,Chicago,NY,2023-12-28,Bronze,9703.71
+CUST000561,Olivia,Garcia,customer561@email.com,+15571792178,Chicago,NY,2024-04-25,Bronze,3371.11
+CUST000562,Jane,Williams,customer562@email.com,+14257051266,Phoenix,TX,2024-08-30,Bronze,2831.09
+CUST000563,David,Smith,customer563@email.com,+19754600518,San Diego,NY,2024-08-10,Platinum,7148.11
+CUST000564,John,Johnson,customer564@email.com,+13968757550,San Jose,TX,2025-01-27,Gold,3153.43
+CUST000565,John,Martinez,customer565@email.com,+16569832988,New York,AZ,2023-10-25,Silver,6472.38
+CUST000566,Emily,Martinez,customer566@email.com,+14973168515,Philadelphia,CA,2025-01-24,Gold,4919.37
+CUST000567,Robert,Miller,customer567@email.com,+19214814867,New York,TX,2025-07-19,Gold,7251.96
+CUST000568,Olivia,Garcia,customer568@email.com,+18571820289,Philadelphia,AZ,2023-12-08,Gold,3378.37
+CUST000569,James,Jones,customer569@email.com,+14728594299,San Diego,TX,2025-05-15,Bronze,3323.41
+CUST000570,John,Rodriguez,customer570@email.com,+16098847807,Houston,IL,2024-02-21,Platinum,8510.37
+CUST000571,Jane,Jones,customer571@email.com,+19066252720,Phoenix,PA,2024-06-08,Platinum,5795.34
+CUST000572,Michael,Johnson,customer572@email.com,+14903903004,San Diego,NY,2023-07-28,Gold,6655.36
+CUST000573,Robert,Garcia,customer573@email.com,+14712087143,San Jose,TX,2024-09-19,Platinum,311.71
+CUST000574,Emily,Johnson,customer574@email.com,+14426306976,New York,NY,2024-02-26,Silver,6750.28
+CUST000575,Robert,Jones,customer575@email.com,+15214935150,San Jose,PA,2024-02-14,Bronze,6215.1
+CUST000576,Emily,Johnson,customer576@email.com,+14242854124,Chicago,CA,2024-09-14,Silver,777.12
+CUST000577,James,Miller,customer577@email.com,+19056332102,San Antonio,CA,2023-11-13,Bronze,6751.57
+CUST000578,Emma,Johnson,customer578@email.com,+12132470924,Houston,TX,2023-12-06,Bronze,6008.92
+CUST000579,Jane,Davis,customer579@email.com,+19863016682,San Jose,AZ,2025-03-25,Gold,2275.77
+CUST000580,Sarah,Garcia,customer580@email.com,+15105166700,Phoenix,CA,2024-01-20,Gold,2463.05
+CUST000581,Sarah,Williams,customer581@email.com,+14827811626,Los Angeles,CA,2025-02-27,Bronze,8761.92
+CUST000582,Emily,Rodriguez,customer582@email.com,+19814420480,Philadelphia,NY,2023-09-03,Gold,8579.23
+CUST000583,James,Johnson,customer583@email.com,+12650055965,Chicago,PA,2023-08-06,Gold,4396.67
+CUST000584,Sarah,Rodriguez,customer584@email.com,+15852504513,Dallas,TX,2025-01-19,Platinum,6158.4
+CUST000585,Emily,Davis,customer585@email.com,+13087910249,New York,CA,2025-04-22,Gold,7763.19
+CUST000586,Sarah,Smith,customer586@email.com,+12178217490,San Jose,NY,2024-01-25,Gold,3205.98
+CUST000587,Sarah,Rodriguez,customer587@email.com,+17851777130,San Diego,NY,2023-07-25,Silver,7290.55
+CUST000588,James,Jones,customer588@email.com,+12148652765,San Antonio,TX,2023-12-20,Platinum,1223.7
+CUST000589,Jane,Rodriguez,customer589@email.com,+13408415536,San Diego,TX,2025-02-19,Silver,3751.32
+CUST000590,Emma,Martinez,customer590@email.com,+12827911566,Houston,TX,2024-08-16,Gold,5792.67
+CUST000591,David,Davis,customer591@email.com,+14295381349,San Antonio,PA,2024-05-03,Bronze,3951.46
+CUST000592,Emily,Jones,customer592@email.com,+16578206478,Philadelphia,TX,2023-08-20,Platinum,3641.77
+CUST000593,Emma,Jones,customer593@email.com,+14558373497,Los Angeles,NY,2024-03-15,Gold,6496.65
+CUST000594,Robert,Jones,customer594@email.com,+17068369673,San Antonio,CA,2024-01-04,Silver,8570.27
+CUST000595,Emma,Rodriguez,customer595@email.com,+13739190605,Philadelphia,CA,2025-01-22,Platinum,3578.5
+CUST000596,Jane,Davis,customer596@email.com,+14350197335,Houston,CA,2025-02-09,Gold,5368.7
+CUST000597,David,Miller,customer597@email.com,+13521804045,Philadelphia,TX,2025-02-15,Silver,4357.39
+CUST000598,Jane,Miller,customer598@email.com,+16660099918,Phoenix,IL,2025-02-26,Gold,1199.6
+CUST000599,Michael,Miller,customer599@email.com,+19254191946,New York,NY,2024-05-06,Silver,918.01
+CUST000600,Olivia,Garcia,customer600@email.com,+18592699645,New York,CA,2024-04-20,Gold,9766.48
+CUST000601,Sarah,Jones,customer601@email.com,+14772462779,Houston,TX,2024-08-10,Platinum,3283.23
+CUST000602,Jane,Johnson,customer602@email.com,+17952382367,Phoenix,AZ,2025-04-15,Bronze,5565.93
+CUST000603,Sarah,Smith,customer603@email.com,+12707653289,San Jose,TX,2024-06-30,Silver,8897.68
+CUST000604,Olivia,Jones,customer604@email.com,+19854509482,Philadelphia,AZ,2024-09-04,Platinum,3674.29
+CUST000605,Michael,Brown,customer605@email.com,+18276312896,Dallas,PA,2023-11-10,Silver,9807.66
+CUST000606,Emily,Martinez,customer606@email.com,+13171573751,San Diego,NY,2025-06-02,Platinum,3855.27
+CUST000607,Olivia,Martinez,customer607@email.com,+17503716561,Los Angeles,NY,2024-11-08,Bronze,1898.23
+CUST000608,Sarah,Martinez,customer608@email.com,+18028020923,Philadelphia,PA,2025-02-03,Platinum,7346.23
+CUST000609,Jane,Smith,customer609@email.com,+13147758886,Dallas,TX,2023-08-18,Platinum,6950.78
+CUST000610,James,Rodriguez,customer610@email.com,+16443132963,Philadelphia,TX,2024-01-01,Bronze,448.28
+CUST000611,Emily,Smith,customer611@email.com,+13647894240,San Antonio,TX,2025-06-06,Platinum,8641.4
+CUST000612,Olivia,Davis,customer612@email.com,+15151134257,Phoenix,CA,2025-07-12,Bronze,2208.64
+CUST000613,David,Smith,customer613@email.com,+12024943348,San Jose,IL,2024-10-04,Silver,6892.91
+CUST000614,James,Rodriguez,customer614@email.com,+12623437617,Houston,CA,2025-04-30,Silver,5411.96
+CUST000615,Michael,Jones,customer615@email.com,+14284059960,Houston,TX,2024-08-31,Bronze,5888.16
+CUST000616,Jane,Miller,customer616@email.com,+19823391043,San Diego,CA,2023-10-09,Silver,1414.88
+CUST000617,Michael,Martinez,customer617@email.com,+13619324236,Philadelphia,AZ,2024-07-10,Gold,2642.65
+CUST000618,Robert,Smith,customer618@email.com,+13022464717,Houston,CA,2025-01-06,Gold,3733.41
+CUST000619,Olivia,Garcia,customer619@email.com,+18979653263,Chicago,TX,2025-06-11,Silver,8827.75
+CUST000620,Sarah,Smith,customer620@email.com,+17584275665,Phoenix,CA,2025-03-05,Silver,582.91
+CUST000621,James,Johnson,customer621@email.com,+16124061574,San Antonio,CA,2023-12-23,Bronze,9409.77
+CUST000622,Emily,Smith,customer622@email.com,+19324254078,San Antonio,IL,2024-08-11,Platinum,1802.91
+CUST000623,Olivia,Miller,customer623@email.com,+14633751318,Chicago,CA,2024-12-11,Bronze,4101.26
+CUST000624,John,Davis,customer624@email.com,+12889611409,Los Angeles,NY,2025-04-14,Silver,9060.25
+CUST000625,Emma,Miller,customer625@email.com,+14003980875,New York,TX,2024-03-13,Silver,873.53
+CUST000626,James,Miller,customer626@email.com,+15440223046,Phoenix,PA,2024-10-02,Silver,4191.79
+CUST000627,Robert,Johnson,customer627@email.com,+16188004084,San Jose,PA,2024-01-15,Gold,2299.65
+CUST000628,Sarah,Williams,customer628@email.com,+19360678556,San Antonio,CA,2024-06-10,Gold,309.16
+CUST000629,Emily,Williams,customer629@email.com,+17592331141,Philadelphia,CA,2024-07-04,Bronze,8728.71
+CUST000630,Emily,Martinez,customer630@email.com,+18085299274,San Jose,CA,2024-03-08,Platinum,1063.64
+CUST000631,Robert,Brown,customer631@email.com,+19041578782,Chicago,CA,2024-04-15,Bronze,6389.6
+CUST000632,Jane,Johnson,customer632@email.com,+15715035244,San Diego,IL,2025-03-03,Gold,8242.1
+CUST000633,Sarah,Jones,customer633@email.com,+19135958372,San Diego,AZ,2024-01-27,Silver,1229.85
+CUST000634,David,Martinez,customer634@email.com,+14370205621,Philadelphia,CA,2023-11-12,Silver,9371.79
+CUST000635,David,Garcia,customer635@email.com,+16197417662,Philadelphia,TX,2024-09-19,Bronze,3099.7
+CUST000636,David,Smith,customer636@email.com,+13044614724,Chicago,CA,2024-10-02,Silver,2368.19
+CUST000637,Robert,Miller,customer637@email.com,+13425102708,Dallas,TX,2023-10-19,Gold,4305.46
+CUST000638,Jane,Williams,customer638@email.com,+19837218803,Philadelphia,TX,2024-08-31,Silver,6014.93
+CUST000639,Olivia,Jones,customer639@email.com,+12932353763,Los Angeles,CA,2023-12-09,Platinum,4739.31
+CUST000640,Olivia,Brown,customer640@email.com,+17514660990,San Diego,TX,2025-05-31,Silver,3029.56
+CUST000641,Jane,Rodriguez,customer641@email.com,+17704099425,Los Angeles,NY,2024-08-09,Bronze,8994.59
+CUST000642,David,Brown,customer642@email.com,+13900173869,Dallas,TX,2025-05-15,Silver,7365.04
+CUST000643,Sarah,Martinez,customer643@email.com,+12662394449,Philadelphia,TX,2024-04-23,Silver,2905.8
+CUST000644,Emily,Rodriguez,customer644@email.com,+17716646043,Phoenix,TX,2024-07-29,Platinum,1812.62
+CUST000645,Jane,Miller,customer645@email.com,+15429989128,Dallas,NY,2025-06-25,Gold,9331.28
+CUST000646,Sarah,Brown,customer646@email.com,+14653179640,San Diego,CA,2024-12-21,Gold,4088.97
+CUST000647,Jane,Johnson,customer647@email.com,+12988418463,Houston,CA,2025-05-12,Silver,6759.59
+CUST000648,Robert,Davis,customer648@email.com,+16483638973,San Antonio,CA,2023-12-05,Gold,6878.86
+CUST000649,Robert,Martinez,customer649@email.com,+17706887758,Phoenix,AZ,2024-06-22,Platinum,123.43
+CUST000650,Emily,Johnson,customer650@email.com,+15879801628,Los Angeles,TX,2024-02-22,Gold,272.82
+CUST000651,Sarah,Miller,customer651@email.com,+16253196326,San Diego,CA,2025-01-28,Platinum,7025.63
+CUST000652,Sarah,Martinez,customer652@email.com,+13887264579,San Diego,CA,2023-07-31,Bronze,5099.99
+CUST000653,Olivia,Martinez,customer653@email.com,+14593572015,Dallas,IL,2024-12-25,Bronze,6767.57
+CUST000654,James,Rodriguez,customer654@email.com,+12734320981,San Diego,CA,2024-07-22,Platinum,233.04
+CUST000655,Jane,Garcia,customer655@email.com,+18447937458,San Antonio,CA,2025-05-22,Gold,6864.52
+CUST000656,James,Rodriguez,customer656@email.com,+17230843827,Dallas,IL,2025-01-22,Silver,8369.05
+CUST000657,James,Martinez,customer657@email.com,+12327473426,Houston,CA,2025-07-19,Bronze,9121.79
+CUST000658,Sarah,Davis,customer658@email.com,+12173028996,Houston,CA,2025-06-18,Gold,9259.94
+CUST000659,Sarah,Martinez,customer659@email.com,+16681804795,San Antonio,NY,2024-12-29,Platinum,8828.88
+CUST000660,John,Garcia,customer660@email.com,+18803814588,Phoenix,CA,2023-08-08,Bronze,1835.35
+CUST000661,John,Williams,customer661@email.com,+16119850583,San Jose,TX,2024-08-29,Platinum,1354.0
+CUST000662,John,Brown,customer662@email.com,+18318132981,New York,CA,2023-09-10,Bronze,4698.51
+CUST000663,David,Miller,customer663@email.com,+16442495244,Philadelphia,TX,2023-10-13,Platinum,6361.78
+CUST000664,Emily,Martinez,customer664@email.com,+17941496887,New York,PA,2023-10-30,Platinum,9277.56
+CUST000665,David,Martinez,customer665@email.com,+17081421056,Dallas,CA,2025-03-25,Platinum,4710.06
+CUST000666,Jane,Johnson,customer666@email.com,+15092411689,Philadelphia,CA,2024-02-16,Bronze,8819.47
+CUST000667,Sarah,Williams,customer667@email.com,+17426533675,San Antonio,CA,2025-01-26,Bronze,179.67
+CUST000668,Michael,Miller,customer668@email.com,+14945970023,San Antonio,CA,2023-10-01,Bronze,7618.71
+CUST000669,David,Garcia,customer669@email.com,+12791686238,Philadelphia,TX,2024-12-11,Silver,5728.48
+CUST000670,Robert,Garcia,customer670@email.com,+18117348818,San Diego,TX,2025-05-21,Gold,8943.13
+CUST000671,Robert,Davis,customer671@email.com,+17271669046,Los Angeles,IL,2025-01-25,Gold,7669.59
+CUST000672,Emily,Smith,customer672@email.com,+14042000145,Dallas,TX,2024-11-20,Gold,6557.46
+CUST000673,David,Williams,customer673@email.com,+18994154998,Dallas,TX,2025-07-07,Gold,8296.4
+CUST000674,Jane,Garcia,customer674@email.com,+18400667904,Los Angeles,NY,2024-07-13,Gold,3414.43
+CUST000675,John,Miller,customer675@email.com,+13067770227,San Antonio,TX,2025-04-28,Platinum,5392.6
+CUST000676,Michael,Smith,customer676@email.com,+16444549235,San Diego,AZ,2024-09-04,Platinum,664.48
+CUST000677,James,Miller,customer677@email.com,+13388658523,Phoenix,CA,2025-05-18,Silver,8822.37
+CUST000678,Olivia,Brown,customer678@email.com,+12751640648,Chicago,CA,2023-10-29,Gold,459.51
+CUST000679,David,Jones,customer679@email.com,+15895480561,Chicago,PA,2023-12-21,Platinum,1199.29
+CUST000680,James,Davis,customer680@email.com,+12160549285,San Jose,CA,2024-06-11,Gold,9799.19
+CUST000681,David,Jones,customer681@email.com,+12089622685,New York,AZ,2025-03-22,Platinum,960.5
+CUST000682,John,Johnson,customer682@email.com,+14521992501,New York,NY,2024-11-10,Bronze,9197.18
+CUST000683,James,Martinez,customer683@email.com,+12657686514,San Diego,CA,2023-10-19,Bronze,5938.96
+CUST000684,Robert,Garcia,customer684@email.com,+14687953449,Chicago,CA,2024-08-01,Bronze,5476.01
+CUST000685,Sarah,Johnson,customer685@email.com,+16140520263,New York,IL,2025-06-13,Silver,8272.97
+CUST000686,Emma,Williams,customer686@email.com,+16080520772,Houston,CA,2024-05-28,Silver,9083.76
+CUST000687,Emma,Brown,customer687@email.com,+17312285902,New York,CA,2025-07-12,Silver,5621.71
+CUST000688,John,Johnson,customer688@email.com,+19631761081,Dallas,TX,2024-07-14,Silver,8823.07
+CUST000689,David,Brown,customer689@email.com,+14764248595,Chicago,IL,2025-03-19,Platinum,3009.6
+CUST000690,James,Garcia,customer690@email.com,+16763771376,Phoenix,IL,2024-04-25,Silver,1392.75
+CUST000691,David,Garcia,customer691@email.com,+18920553082,New York,CA,2023-09-22,Gold,4736.94
+CUST000692,James,Davis,customer692@email.com,+13591980593,San Diego,TX,2025-03-21,Bronze,8417.8
+CUST000693,Sarah,Jones,customer693@email.com,+16003167479,San Antonio,TX,2024-11-12,Silver,4349.16
+CUST000694,John,Garcia,customer694@email.com,+14155303872,San Jose,TX,2025-07-18,Bronze,7759.22
+CUST000695,Robert,Johnson,customer695@email.com,+19796929494,Phoenix,TX,2024-01-07,Gold,6285.02
+CUST000696,Michael,Smith,customer696@email.com,+19126939157,Phoenix,TX,2023-09-23,Gold,4396.36
+CUST000697,Emma,Davis,customer697@email.com,+15757527864,San Antonio,TX,2025-05-25,Silver,5488.3
+CUST000698,Sarah,Williams,customer698@email.com,+14419402469,San Antonio,IL,2023-10-04,Platinum,2387.8
+CUST000699,Sarah,Williams,customer699@email.com,+16621589065,San Antonio,AZ,2024-07-24,Bronze,6330.59
+CUST000700,Robert,Jones,customer700@email.com,+18070482097,Chicago,CA,2023-07-25,Bronze,4804.4
+CUST000701,Sarah,Martinez,customer701@email.com,+12464638421,Los Angeles,TX,2024-07-29,Bronze,9528.49
+CUST000702,Jane,Miller,customer702@email.com,+19237332239,New York,CA,2024-09-15,Bronze,4667.33
+CUST000703,Jane,Martinez,customer703@email.com,+16990401677,New York,NY,2025-05-27,Bronze,7493.0
+CUST000704,Michael,Williams,customer704@email.com,+14326691001,Los Angeles,CA,2024-11-21,Bronze,6681.45
+CUST000705,Emily,Davis,customer705@email.com,+17271483857,Phoenix,TX,2024-03-23,Silver,5096.7
+CUST000706,John,Miller,customer706@email.com,+17390513246,Houston,IL,2024-09-11,Silver,5570.21
+CUST000707,John,Martinez,customer707@email.com,+14365662911,San Diego,PA,2024-07-26,Gold,4935.36
+CUST000708,John,Rodriguez,customer708@email.com,+14035845799,New York,TX,2024-01-16,Bronze,3535.77
+CUST000709,Emily,Johnson,customer709@email.com,+13294502821,Chicago,TX,2024-08-23,Silver,1908.33
+CUST000710,John,Williams,customer710@email.com,+19697362033,Chicago,TX,2024-03-23,Gold,1496.77
+CUST000711,David,Rodriguez,customer711@email.com,+12676943242,San Diego,TX,2023-10-09,Bronze,8664.65
+CUST000712,Emma,Miller,customer712@email.com,+18104085524,Dallas,NY,2025-02-12,Bronze,3266.9
+CUST000713,Jane,Rodriguez,customer713@email.com,+17352755989,San Jose,CA,2024-12-04,Silver,9155.47
+CUST000714,Jane,Johnson,customer714@email.com,+19952725552,Chicago,PA,2024-07-22,Silver,8801.67
+CUST000715,Emily,Smith,customer715@email.com,+14491568340,Los Angeles,TX,2023-11-15,Silver,1260.35
+CUST000716,David,Garcia,customer716@email.com,+14528514564,Philadelphia,TX,2024-11-27,Gold,7595.19
+CUST000717,Emily,Martinez,customer717@email.com,+17366437198,Philadelphia,NY,2025-07-11,Bronze,1613.39
+CUST000718,Emily,Davis,customer718@email.com,+18770727657,New York,TX,2023-10-01,Gold,940.03
+CUST000719,John,Smith,customer719@email.com,+17134219879,Los Angeles,TX,2024-12-13,Silver,7499.38
+CUST000720,Emily,Brown,customer720@email.com,+15572270239,Phoenix,PA,2025-07-06,Gold,4946.18
+CUST000721,Michael,Davis,customer721@email.com,+14613573898,Chicago,CA,2025-04-19,Platinum,9048.51
+CUST000722,Michael,Brown,customer722@email.com,+15739463553,San Diego,TX,2024-09-25,Silver,2278.22
+CUST000723,Sarah,Miller,customer723@email.com,+14580106469,Dallas,TX,2023-11-30,Bronze,2802.65
+CUST000724,Jane,Rodriguez,customer724@email.com,+13625816648,Chicago,CA,2024-10-21,Gold,7931.48
+CUST000725,Michael,Williams,customer725@email.com,+19330452911,Phoenix,TX,2024-05-28,Platinum,2199.05
+CUST000726,Sarah,Miller,customer726@email.com,+16836719720,San Diego,TX,2025-05-08,Platinum,3022.18
+CUST000727,Olivia,Brown,customer727@email.com,+16191005431,San Antonio,NY,2024-06-05,Platinum,9046.21
+CUST000728,Michael,Garcia,customer728@email.com,+16571970144,Dallas,TX,2024-08-17,Platinum,3191.31
+CUST000729,Emma,Jones,customer729@email.com,+19825177451,Houston,AZ,2024-02-06,Gold,8043.03
+CUST000730,Emma,Johnson,customer730@email.com,+19213771869,Chicago,NY,2024-10-16,Platinum,2599.92
+CUST000731,Olivia,Jones,customer731@email.com,+16266395707,Philadelphia,AZ,2024-03-04,Bronze,1935.97
+CUST000732,John,Jones,customer732@email.com,+14214136980,Phoenix,TX,2025-05-21,Platinum,3278.36
+CUST000733,Jane,Miller,customer733@email.com,+16947359961,San Diego,TX,2025-06-02,Gold,968.5
+CUST000734,Olivia,Williams,customer734@email.com,+12331125496,Chicago,TX,2023-09-30,Silver,1409.4
+CUST000735,Jane,Davis,customer735@email.com,+16535258581,San Diego,TX,2024-03-04,Silver,908.96
+CUST000736,Robert,Martinez,customer736@email.com,+14952153504,San Diego,NY,2024-08-31,Silver,8889.34
+CUST000737,Jane,Davis,customer737@email.com,+14180414045,Dallas,CA,2023-11-02,Bronze,6339.04
+CUST000738,John,Brown,customer738@email.com,+19556071605,Houston,TX,2025-01-02,Platinum,7291.98
+CUST000739,Jane,Smith,customer739@email.com,+14140464194,Chicago,TX,2023-08-15,Bronze,7655.78
+CUST000740,Emily,Johnson,customer740@email.com,+13646503767,Philadelphia,CA,2023-10-15,Gold,4350.83
+CUST000741,Emma,Rodriguez,customer741@email.com,+13236019313,Philadelphia,TX,2025-01-25,Platinum,7252.59
+CUST000742,Olivia,Williams,customer742@email.com,+15634889389,Houston,TX,2024-05-04,Platinum,5097.61
+CUST000743,James,Garcia,customer743@email.com,+16821872451,Houston,CA,2024-08-26,Silver,2872.84
+CUST000744,John,Garcia,customer744@email.com,+15140685568,New York,PA,2023-09-12,Platinum,6801.91
+CUST000745,Emily,Williams,customer745@email.com,+13223505592,San Diego,CA,2025-05-08,Silver,7236.34
+CUST000746,Sarah,Rodriguez,customer746@email.com,+12912368202,Los Angeles,CA,2024-08-02,Silver,124.35
+CUST000747,Emma,Brown,customer747@email.com,+19213742559,New York,TX,2024-12-06,Silver,2537.27
+CUST000748,Emma,Jones,customer748@email.com,+13668688040,Philadelphia,NY,2025-05-17,Bronze,7021.73
+CUST000749,John,Martinez,customer749@email.com,+14275924515,Los Angeles,TX,2024-06-04,Bronze,5732.17
+CUST000750,Robert,Williams,customer750@email.com,+13708495492,Dallas,CA,2023-10-26,Gold,4090.05
+CUST000751,Jane,Garcia,customer751@email.com,+12012059471,Dallas,PA,2024-06-08,Bronze,3710.71
+CUST000752,Sarah,Garcia,customer752@email.com,+17247041923,Houston,TX,2023-09-03,Gold,338.13
+CUST000753,Jane,Garcia,customer753@email.com,+16428000500,San Jose,CA,2025-05-08,Gold,5342.3
+CUST000754,Sarah,Williams,customer754@email.com,+17314527117,Los Angeles,AZ,2023-11-07,Gold,4711.0
+CUST000755,James,Williams,customer755@email.com,+16837316347,Chicago,IL,2024-11-09,Gold,1506.42
+CUST000756,John,Rodriguez,customer756@email.com,+13204295199,Houston,TX,2024-12-09,Silver,3843.6
+CUST000757,Jane,Smith,customer757@email.com,+17525690589,Philadelphia,AZ,2024-02-13,Bronze,5607.67
+CUST000758,David,Jones,customer758@email.com,+15127088102,San Antonio,TX,2025-05-15,Platinum,8351.78
+CUST000759,Emma,Davis,customer759@email.com,+17025707119,Dallas,CA,2025-02-08,Bronze,3305.83
+CUST000760,Sarah,Smith,customer760@email.com,+17340393811,San Antonio,AZ,2024-04-29,Platinum,510.35
+CUST000761,Emily,Martinez,customer761@email.com,+14511644733,San Jose,IL,2024-07-07,Platinum,9149.42
+CUST000762,John,Martinez,customer762@email.com,+13593889491,New York,TX,2024-06-15,Gold,1323.52
+CUST000763,Olivia,Smith,customer763@email.com,+13253861307,San Jose,NY,2024-11-18,Gold,7987.27
+CUST000764,John,Williams,customer764@email.com,+15217896131,Houston,TX,2023-09-19,Platinum,7545.34
+CUST000765,Emily,Jones,customer765@email.com,+18709449364,Philadelphia,TX,2024-11-24,Gold,9783.08
+CUST000766,Michael,Davis,customer766@email.com,+15861737146,Houston,TX,2023-09-17,Silver,7290.99
+CUST000767,James,Davis,customer767@email.com,+14373521826,San Diego,CA,2024-03-22,Gold,3366.33
+CUST000768,James,Garcia,customer768@email.com,+12340285446,Dallas,CA,2024-11-29,Gold,2051.32
+CUST000769,Olivia,Williams,customer769@email.com,+17046188022,Chicago,NY,2024-04-23,Silver,4627.62
+CUST000770,James,Davis,customer770@email.com,+12392808225,Los Angeles,CA,2025-03-07,Platinum,9432.73
+CUST000771,John,Garcia,customer771@email.com,+19340840177,New York,TX,2024-10-29,Platinum,7790.72
+CUST000772,Sarah,Miller,customer772@email.com,+17780996997,Los Angeles,TX,2024-09-30,Gold,8374.81
+CUST000773,David,Brown,customer773@email.com,+18604181236,Philadelphia,TX,2023-12-03,Gold,6060.57
+CUST000774,Michael,Garcia,customer774@email.com,+15316117813,San Antonio,CA,2024-01-24,Gold,1640.58
+CUST000775,Sarah,Rodriguez,customer775@email.com,+14637973849,San Jose,NY,2023-12-25,Platinum,9415.9
+CUST000776,Robert,Johnson,customer776@email.com,+17149812674,San Antonio,PA,2023-07-30,Silver,9662.51
+CUST000777,John,Martinez,customer777@email.com,+12313139266,Phoenix,PA,2025-02-06,Bronze,6533.45
+CUST000778,Sarah,Brown,customer778@email.com,+18333223209,New York,PA,2023-10-31,Platinum,7853.47
+CUST000779,John,Jones,customer779@email.com,+15678403672,New York,TX,2024-02-11,Bronze,4086.49
+CUST000780,Sarah,Miller,customer780@email.com,+14122374861,New York,CA,2025-02-08,Silver,8411.31
+CUST000781,John,Rodriguez,customer781@email.com,+19686723446,Houston,CA,2024-12-25,Gold,3843.44
+CUST000782,Olivia,Martinez,customer782@email.com,+14721264451,San Antonio,CA,2023-08-14,Platinum,1169.78
+CUST000783,Emily,Martinez,customer783@email.com,+18264549052,San Antonio,CA,2023-12-30,Silver,9266.34
+CUST000784,James,Martinez,customer784@email.com,+19220448048,Dallas,PA,2023-07-21,Bronze,3477.49
+CUST000785,Olivia,Brown,customer785@email.com,+17235193019,Philadelphia,CA,2024-03-10,Bronze,6617.5
+CUST000786,John,Rodriguez,customer786@email.com,+18505104016,Phoenix,CA,2025-06-17,Bronze,4378.95
+CUST000787,David,Martinez,customer787@email.com,+17151830731,Los Angeles,CA,2023-10-27,Platinum,7812.26
+CUST000788,James,Smith,customer788@email.com,+14173001081,San Diego,TX,2024-02-03,Bronze,9203.97
+CUST000789,Robert,Johnson,customer789@email.com,+17681031701,Dallas,PA,2025-06-15,Silver,8247.93
+CUST000790,David,Williams,customer790@email.com,+16264826679,Dallas,TX,2023-08-22,Platinum,5868.33
+CUST000791,Robert,Rodriguez,customer791@email.com,+19137862733,Los Angeles,TX,2024-10-20,Gold,8795.2
+CUST000792,Robert,Miller,customer792@email.com,+12386047604,Dallas,PA,2024-02-18,Bronze,7883.06
+CUST000793,Olivia,Williams,customer793@email.com,+19268171697,New York,AZ,2024-10-28,Platinum,2283.08
+CUST000794,Emily,Jones,customer794@email.com,+14659536366,San Jose,TX,2023-10-25,Silver,1968.34
+CUST000795,James,Martinez,customer795@email.com,+18123767636,Houston,TX,2024-07-30,Platinum,5474.35
+CUST000796,Olivia,Brown,customer796@email.com,+17838811111,San Jose,PA,2024-09-18,Silver,6757.86
+CUST000797,Emma,Brown,customer797@email.com,+14548583117,San Jose,CA,2023-09-25,Bronze,6571.14
+CUST000798,Emily,Brown,customer798@email.com,+12133069741,Los Angeles,CA,2024-02-10,Platinum,6260.53
+CUST000799,Jane,Jones,customer799@email.com,+16651312718,Los Angeles,CA,2024-09-18,Gold,4340.1
+CUST000800,Emily,Garcia,customer800@email.com,+15971215076,San Jose,CA,2024-03-28,Bronze,3033.95
+CUST000801,Robert,Martinez,customer801@email.com,+15692483706,Philadelphia,TX,2024-02-24,Silver,3797.72
+CUST000802,Michael,Jones,customer802@email.com,+16046324411,San Antonio,TX,2024-07-23,Platinum,5211.72
+CUST000803,Michael,Brown,customer803@email.com,+13621940161,San Diego,TX,2024-01-21,Gold,8360.78
+CUST000804,Emma,Smith,customer804@email.com,+17684313708,Philadelphia,AZ,2025-03-04,Bronze,9302.66
+CUST000805,Olivia,Rodriguez,customer805@email.com,+17833119501,New York,IL,2023-09-19,Platinum,7710.16
+CUST000806,Olivia,Martinez,customer806@email.com,+13681382213,San Antonio,IL,2024-09-15,Platinum,8442.24
+CUST000807,Emma,Williams,customer807@email.com,+12014119334,San Antonio,CA,2024-02-20,Bronze,6062.33
+CUST000808,Olivia,Miller,customer808@email.com,+13883435085,Dallas,CA,2025-03-01,Bronze,1095.26
+CUST000809,Robert,Williams,customer809@email.com,+16293033279,San Jose,NY,2024-12-30,Platinum,6427.53
+CUST000810,David,Miller,customer810@email.com,+12564926211,Phoenix,AZ,2025-02-13,Silver,8168.15
+CUST000811,John,Martinez,customer811@email.com,+18110447903,Philadelphia,TX,2023-09-23,Silver,507.88
+CUST000812,Sarah,Rodriguez,customer812@email.com,+19658261232,Los Angeles,TX,2024-12-02,Silver,418.52
+CUST000813,James,Davis,customer813@email.com,+12687007106,Chicago,CA,2025-06-19,Silver,9815.9
+CUST000814,Jane,Johnson,customer814@email.com,+15741385875,Philadelphia,TX,2024-04-28,Gold,3315.76
+CUST000815,Olivia,Brown,customer815@email.com,+16912687266,San Diego,AZ,2024-04-04,Bronze,9484.4
+CUST000816,John,Garcia,customer816@email.com,+17356184852,New York,TX,2023-12-21,Bronze,2332.34
+CUST000817,John,Davis,customer817@email.com,+15432809471,New York,TX,2025-05-08,Gold,6237.36
+CUST000818,James,Martinez,customer818@email.com,+14526457433,Dallas,TX,2024-10-29,Platinum,5038.87
+CUST000819,John,Miller,customer819@email.com,+14716814541,Dallas,CA,2024-01-22,Gold,9271.07
+CUST000820,David,Brown,customer820@email.com,+16136494290,Houston,IL,2024-07-11,Platinum,201.46
+CUST000821,John,Smith,customer821@email.com,+18759404578,San Antonio,TX,2024-05-18,Bronze,3632.2
+CUST000822,Sarah,Miller,customer822@email.com,+17218214292,San Diego,CA,2024-02-09,Gold,1824.65
+CUST000823,David,Garcia,customer823@email.com,+12590296349,San Jose,TX,2024-06-29,Gold,5186.4
+CUST000824,James,Martinez,customer824@email.com,+12926214295,San Jose,TX,2023-08-07,Gold,324.27
+CUST000825,Emily,Miller,customer825@email.com,+14278891175,Houston,TX,2024-09-29,Platinum,8085.86
+CUST000826,Jane,Davis,customer826@email.com,+19392175136,New York,TX,2024-10-15,Bronze,589.69
+CUST000827,Emma,Miller,customer827@email.com,+14319289726,Dallas,TX,2025-06-30,Gold,2562.19
+CUST000828,Michael,Garcia,customer828@email.com,+13209901499,San Antonio,CA,2024-09-13,Platinum,5278.31
+CUST000829,Emma,Jones,customer829@email.com,+18097590801,Philadelphia,IL,2025-02-22,Bronze,1309.05
+CUST000830,Emma,Williams,customer830@email.com,+19417779421,New York,NY,2024-04-10,Platinum,4582.62
+CUST000831,Sarah,Williams,customer831@email.com,+13935782066,San Antonio,AZ,2025-03-15,Silver,6902.66
+CUST000832,Michael,Rodriguez,customer832@email.com,+17370564485,San Antonio,TX,2024-02-09,Gold,8942.53
+CUST000833,John,Miller,customer833@email.com,+15550091755,Dallas,AZ,2025-06-07,Bronze,2991.91
+CUST000834,Michael,Miller,customer834@email.com,+18752185194,Philadelphia,TX,2023-08-27,Bronze,2444.7
+CUST000835,David,Davis,customer835@email.com,+14172030514,Dallas,TX,2023-11-18,Bronze,581.6
+CUST000836,Sarah,Miller,customer836@email.com,+15428397191,San Antonio,PA,2024-12-26,Silver,6963.75
+CUST000837,Jane,Davis,customer837@email.com,+16966831283,Phoenix,TX,2025-07-02,Bronze,7568.24
+CUST000838,Olivia,Garcia,customer838@email.com,+14280106933,Chicago,NY,2024-02-03,Bronze,4439.29
+CUST000839,Jane,Garcia,customer839@email.com,+15000972260,Chicago,IL,2024-09-17,Silver,9436.85
+CUST000840,Emily,Brown,customer840@email.com,+14140323988,New York,IL,2025-01-10,Bronze,6987.03
+CUST000841,Sarah,Brown,customer841@email.com,+19652434049,Chicago,CA,2023-09-02,Silver,5255.84
+CUST000842,Olivia,Davis,customer842@email.com,+13769871392,Philadelphia,CA,2023-08-30,Silver,8071.44
+CUST000843,Jane,Johnson,customer843@email.com,+15561838928,Chicago,IL,2024-01-30,Bronze,3544.66
+CUST000844,Emily,Williams,customer844@email.com,+12606287672,New York,TX,2024-02-16,Silver,2691.31
+CUST000845,Emily,Brown,customer845@email.com,+14583282431,Philadelphia,NY,2025-01-23,Gold,1423.67
+CUST000846,Jane,Jones,customer846@email.com,+17141647488,Phoenix,NY,2024-01-17,Silver,4209.47
+CUST000847,Emily,Martinez,customer847@email.com,+18090247673,San Diego,CA,2025-05-09,Bronze,3138.74
+CUST000848,Sarah,Miller,customer848@email.com,+13968108958,Los Angeles,TX,2024-12-29,Silver,1972.16
+CUST000849,John,Brown,customer849@email.com,+15219937300,San Antonio,TX,2023-07-25,Bronze,8322.32
+CUST000850,Michael,Rodriguez,customer850@email.com,+15154735922,San Antonio,CA,2025-03-03,Gold,3800.15
+CUST000851,Jane,Davis,customer851@email.com,+17600699316,Phoenix,NY,2025-05-07,Bronze,1027.1
+CUST000852,John,Williams,customer852@email.com,+12245550096,San Antonio,TX,2024-09-23,Bronze,7196.16
+CUST000853,James,Williams,customer853@email.com,+13508184918,Philadelphia,IL,2025-01-07,Silver,9551.18
+CUST000854,Emily,Jones,customer854@email.com,+18809703594,San Diego,PA,2023-12-06,Gold,7185.73
+CUST000855,David,Garcia,customer855@email.com,+15695052284,Dallas,NY,2024-08-08,Silver,4446.97
+CUST000856,James,Williams,customer856@email.com,+12823641793,Philadelphia,CA,2024-02-10,Platinum,882.2
+CUST000857,Michael,Jones,customer857@email.com,+14150223158,San Diego,TX,2024-12-25,Gold,1734.38
+CUST000858,David,Brown,customer858@email.com,+15724281265,San Diego,AZ,2024-08-16,Silver,871.02
+CUST000859,Michael,Williams,customer859@email.com,+16709298355,Los Angeles,TX,2025-01-23,Silver,9394.33
+CUST000860,Emma,Jones,customer860@email.com,+15749521832,Philadelphia,AZ,2025-01-25,Platinum,6350.46
+CUST000861,Robert,Miller,customer861@email.com,+12206797677,San Jose,TX,2024-12-26,Silver,9757.82
+CUST000862,David,Martinez,customer862@email.com,+15365547890,Houston,CA,2025-02-16,Platinum,5225.87
+CUST000863,Olivia,Rodriguez,customer863@email.com,+19404083837,Dallas,TX,2023-12-15,Bronze,6033.59
+CUST000864,David,Rodriguez,customer864@email.com,+16028582530,Los Angeles,NY,2025-02-12,Platinum,7261.16
+CUST000865,Emma,Williams,customer865@email.com,+13381841150,San Antonio,NY,2024-04-10,Bronze,103.46
+CUST000866,James,Brown,customer866@email.com,+13825987892,San Antonio,IL,2024-05-21,Platinum,7834.5
+CUST000867,Emily,Martinez,customer867@email.com,+18909696095,San Diego,IL,2025-03-08,Gold,7788.76
+CUST000868,Emma,Jones,customer868@email.com,+12341130206,San Jose,CA,2023-07-29,Gold,8256.31
+CUST000869,Michael,Johnson,customer869@email.com,+15861408365,Los Angeles,AZ,2025-04-13,Platinum,6593.15
+CUST000870,Jane,Davis,customer870@email.com,+16797517474,Dallas,PA,2025-02-02,Silver,4454.58
+CUST000871,John,Jones,customer871@email.com,+12086857734,San Jose,TX,2023-08-16,Bronze,8838.2
+CUST000872,Sarah,Williams,customer872@email.com,+19966520278,San Diego,TX,2025-04-15,Silver,1937.09
+CUST000873,James,Garcia,customer873@email.com,+18894859440,Los Angeles,IL,2023-11-23,Platinum,4154.41
+CUST000874,Sarah,Garcia,customer874@email.com,+19544000982,Houston,NY,2024-11-04,Silver,327.8
+CUST000875,Sarah,Jones,customer875@email.com,+13137384904,San Diego,AZ,2025-01-29,Bronze,9121.86
+CUST000876,Robert,Williams,customer876@email.com,+16430664562,Chicago,TX,2025-07-03,Platinum,9202.24
+CUST000877,Olivia,Williams,customer877@email.com,+14718084340,San Antonio,TX,2024-04-24,Silver,4196.39
+CUST000878,Olivia,Davis,customer878@email.com,+17119923515,San Jose,PA,2025-06-27,Gold,7735.42
+CUST000879,John,Garcia,customer879@email.com,+12577056335,New York,AZ,2024-06-27,Silver,4140.61
+CUST000880,Michael,Miller,customer880@email.com,+16170779994,San Diego,TX,2023-11-05,Gold,7479.83
+CUST000881,Michael,Williams,customer881@email.com,+15701623447,Philadelphia,NY,2024-01-11,Bronze,7647.72
+CUST000882,Emily,Rodriguez,customer882@email.com,+13249358727,San Jose,CA,2024-08-31,Gold,8370.56
+CUST000883,Olivia,Martinez,customer883@email.com,+15508892507,Chicago,IL,2025-04-09,Bronze,7714.59
+CUST000884,Jane,Smith,customer884@email.com,+13480721491,Chicago,TX,2023-12-16,Platinum,810.64
+CUST000885,Emma,Martinez,customer885@email.com,+13555921204,San Diego,IL,2023-08-07,Bronze,2513.13
+CUST000886,Sarah,Martinez,customer886@email.com,+12908880649,New York,CA,2025-06-13,Bronze,4302.7
+CUST000887,Michael,Johnson,customer887@email.com,+17958774557,San Antonio,TX,2023-07-20,Platinum,1250.84
+CUST000888,Robert,Jones,customer888@email.com,+19359706095,Dallas,TX,2024-04-10,Bronze,1994.97
+CUST000889,David,Rodriguez,customer889@email.com,+13310305794,New York,NY,2024-04-15,Silver,7910.16
+CUST000890,John,Johnson,customer890@email.com,+16060917385,San Diego,CA,2024-07-24,Bronze,7927.06
+CUST000891,Michael,Johnson,customer891@email.com,+16099992924,Philadelphia,AZ,2024-10-04,Bronze,6242.63
+CUST000892,Emily,Smith,customer892@email.com,+19914900948,Houston,TX,2025-06-25,Silver,8121.49
+CUST000893,Jane,Williams,customer893@email.com,+13193344853,Houston,CA,2023-08-10,Bronze,6036.85
+CUST000894,Robert,Miller,customer894@email.com,+12433588639,San Diego,NY,2023-09-30,Platinum,7810.48
+CUST000895,John,Brown,customer895@email.com,+19951341851,Los Angeles,AZ,2024-12-28,Bronze,4507.6
+CUST000896,James,Brown,customer896@email.com,+16114520743,Los Angeles,NY,2023-12-15,Silver,4431.94
+CUST000897,John,Smith,customer897@email.com,+14757153643,Chicago,TX,2025-02-07,Gold,4317.51
+CUST000898,Robert,Martinez,customer898@email.com,+13960075871,San Antonio,CA,2024-08-18,Platinum,2097.59
+CUST000899,John,Garcia,customer899@email.com,+15709420839,San Diego,TX,2024-05-13,Silver,3340.99
+CUST000900,Jane,Garcia,customer900@email.com,+19754908085,San Diego,TX,2024-11-18,Platinum,4377.47
+CUST000901,Michael,Williams,customer901@email.com,+15729979239,Dallas,CA,2023-12-04,Gold,4110.63
+CUST000902,Robert,Miller,customer902@email.com,+15985602768,San Antonio,AZ,2025-06-27,Silver,5871.82
+CUST000903,Emily,Miller,customer903@email.com,+19998501961,Chicago,NY,2024-03-23,Gold,4071.84
+CUST000904,Robert,Johnson,customer904@email.com,+13664990683,Los Angeles,CA,2024-12-06,Gold,8389.51
+CUST000905,Robert,Miller,customer905@email.com,+14241796207,Philadelphia,PA,2023-09-06,Bronze,3438.96
+CUST000906,James,Martinez,customer906@email.com,+12639590654,San Antonio,CA,2025-02-10,Gold,7613.27
+CUST000907,James,Rodriguez,customer907@email.com,+12765479906,New York,TX,2025-06-14,Platinum,1121.9
+CUST000908,Robert,Smith,customer908@email.com,+15722626768,Philadelphia,TX,2023-11-06,Bronze,8069.77
+CUST000909,Robert,Davis,customer909@email.com,+15431745312,San Antonio,IL,2023-08-28,Silver,5378.81
+CUST000910,Emma,Williams,customer910@email.com,+18381693376,Chicago,CA,2023-08-17,Platinum,2097.92
+CUST000911,Sarah,Johnson,customer911@email.com,+13009087861,New York,TX,2025-01-12,Gold,8642.78
+CUST000912,John,Rodriguez,customer912@email.com,+18896409245,Philadelphia,TX,2025-07-03,Platinum,8793.24
+CUST000913,John,Martinez,customer913@email.com,+15043211855,San Antonio,NY,2023-11-07,Silver,3716.99
+CUST000914,Robert,Smith,customer914@email.com,+16260030742,San Antonio,TX,2025-06-02,Platinum,8523.7
+CUST000915,John,Jones,customer915@email.com,+16616823863,Philadelphia,AZ,2024-06-11,Platinum,1431.62
+CUST000916,Emily,Davis,customer916@email.com,+19009840146,Dallas,CA,2023-10-24,Bronze,7067.04
+CUST000917,Emma,Rodriguez,customer917@email.com,+13447237317,Phoenix,TX,2025-02-15,Silver,6684.45
+CUST000918,John,Miller,customer918@email.com,+15349760148,Los Angeles,NY,2025-02-23,Gold,1300.63
+CUST000919,Emily,Garcia,customer919@email.com,+19861594832,San Antonio,CA,2024-01-13,Gold,7523.69
+CUST000920,Emily,Brown,customer920@email.com,+13661192763,San Diego,TX,2025-06-26,Platinum,9772.96
+CUST000921,Emma,Miller,customer921@email.com,+19531291678,Dallas,PA,2024-04-04,Bronze,5317.96
+CUST000922,Robert,Johnson,customer922@email.com,+12091472423,San Jose,TX,2023-11-16,Bronze,8045.84
+CUST000923,Olivia,Miller,customer923@email.com,+13627412809,Philadelphia,TX,2025-02-14,Bronze,7110.59
+CUST000924,John,Johnson,customer924@email.com,+19318814229,Philadelphia,TX,2025-05-24,Silver,5731.02
+CUST000925,Sarah,Rodriguez,customer925@email.com,+12676565967,Dallas,CA,2023-09-17,Gold,7063.58
+CUST000926,Robert,Martinez,customer926@email.com,+15035224054,San Jose,TX,2024-11-10,Gold,7428.28
+CUST000927,Robert,Davis,customer927@email.com,+18425238364,Chicago,TX,2024-12-17,Bronze,890.69
+CUST000928,Olivia,Garcia,customer928@email.com,+18348870570,Philadelphia,NY,2024-01-15,Bronze,1091.76
+CUST000929,Olivia,Garcia,customer929@email.com,+13402182188,San Antonio,CA,2024-08-20,Bronze,7013.47
+CUST000930,Robert,Davis,customer930@email.com,+14692528991,New York,TX,2025-02-06,Platinum,3878.85
+CUST000931,Jane,Jones,customer931@email.com,+12904583062,San Antonio,CA,2025-01-17,Silver,3465.29
+CUST000932,John,Brown,customer932@email.com,+18172262683,San Antonio,NY,2023-11-30,Silver,463.12
+CUST000933,Olivia,Rodriguez,customer933@email.com,+13636736490,New York,CA,2023-08-29,Gold,9911.67
+CUST000934,Sarah,Miller,customer934@email.com,+18997466235,Philadelphia,AZ,2025-07-10,Bronze,4915.57
+CUST000935,Robert,Martinez,customer935@email.com,+19403997478,Phoenix,TX,2023-08-13,Silver,1762.45
+CUST000936,Michael,Miller,customer936@email.com,+13971929422,San Jose,AZ,2025-02-01,Platinum,2324.5
+CUST000937,Jane,Williams,customer937@email.com,+14249998263,San Jose,TX,2025-02-15,Bronze,5647.5
+CUST000938,Sarah,Davis,customer938@email.com,+17100451536,Dallas,TX,2024-03-11,Gold,1842.99
+CUST000939,David,Miller,customer939@email.com,+15954701184,Houston,CA,2023-09-25,Platinum,4462.86
+CUST000940,John,Johnson,customer940@email.com,+18560550230,San Diego,PA,2023-09-30,Bronze,1042.12
+CUST000941,James,Garcia,customer941@email.com,+19686476404,Philadelphia,AZ,2024-12-24,Bronze,1389.0
+CUST000942,James,Miller,customer942@email.com,+17045716927,San Diego,AZ,2023-11-30,Bronze,5258.83
+CUST000943,James,Williams,customer943@email.com,+16206194698,Los Angeles,TX,2024-02-27,Bronze,7654.72
+CUST000944,Robert,Johnson,customer944@email.com,+15579110479,Phoenix,CA,2024-01-09,Silver,117.82
+CUST000945,Robert,Brown,customer945@email.com,+12007480446,New York,TX,2023-11-30,Silver,2801.04
+CUST000946,Emily,Garcia,customer946@email.com,+14200042143,San Antonio,TX,2025-01-19,Gold,8167.76
+CUST000947,Jane,Miller,customer947@email.com,+13158999278,San Antonio,CA,2023-08-13,Platinum,7454.66
+CUST000948,Emily,Smith,customer948@email.com,+14593591725,Dallas,AZ,2024-05-29,Silver,1266.43
+CUST000949,John,Williams,customer949@email.com,+17475780236,San Antonio,TX,2025-01-13,Platinum,8196.25
+CUST000950,David,Rodriguez,customer950@email.com,+13884823447,Los Angeles,TX,2024-08-03,Platinum,7496.08
+CUST000951,Jane,Garcia,customer951@email.com,+17430101886,Houston,CA,2024-05-10,Bronze,6623.28
+CUST000952,Sarah,Johnson,customer952@email.com,+17616426611,Phoenix,AZ,2025-01-21,Bronze,1114.1
+CUST000953,Emma,Brown,customer953@email.com,+19023655777,New York,CA,2024-03-01,Gold,6914.09
+CUST000954,Emily,Jones,customer954@email.com,+16414488883,Houston,CA,2024-12-22,Silver,9938.04
+CUST000955,James,Williams,customer955@email.com,+13753455188,New York,TX,2025-04-14,Bronze,7180.42
+CUST000956,Emma,Davis,customer956@email.com,+12392967061,San Jose,CA,2024-07-05,Platinum,9496.92
+CUST000957,Emma,Brown,customer957@email.com,+12680292587,New York,TX,2023-11-15,Bronze,3185.86
+CUST000958,John,Jones,customer958@email.com,+14614171195,New York,CA,2023-09-22,Gold,5335.64
+CUST000959,James,Johnson,customer959@email.com,+17128150755,Houston,NY,2024-10-25,Gold,7911.82
+CUST000960,Emily,Martinez,customer960@email.com,+16999203006,Los Angeles,CA,2025-01-02,Silver,353.46
+CUST000961,Jane,Smith,customer961@email.com,+12872493445,New York,CA,2025-02-21,Platinum,8314.71
+CUST000962,Michael,Williams,customer962@email.com,+15985810492,San Jose,TX,2024-12-12,Bronze,6121.59
+CUST000963,Olivia,Smith,customer963@email.com,+15410424131,San Diego,CA,2023-09-20,Silver,9086.16
+CUST000964,Robert,Garcia,customer964@email.com,+16245345174,San Diego,NY,2025-07-13,Silver,6069.47
+CUST000965,David,Williams,customer965@email.com,+19025518071,San Jose,TX,2025-01-01,Platinum,9759.24
+CUST000966,David,Brown,customer966@email.com,+13672041489,San Antonio,TX,2024-04-26,Silver,5191.99
+CUST000967,Emma,Smith,customer967@email.com,+15409556511,New York,CA,2023-09-11,Platinum,9901.85
+CUST000968,Olivia,Martinez,customer968@email.com,+16444480095,San Antonio,AZ,2024-10-23,Bronze,893.44
+CUST000969,Emma,Jones,customer969@email.com,+17431858896,San Jose,CA,2025-06-10,Gold,5107.27
+CUST000970,David,Miller,customer970@email.com,+18707599999,New York,NY,2024-08-05,Gold,5286.05
+CUST000971,Olivia,Jones,customer971@email.com,+18735306731,Los Angeles,TX,2023-07-22,Silver,7231.6
+CUST000972,Olivia,Martinez,customer972@email.com,+16848941442,San Antonio,CA,2025-03-15,Bronze,5462.52
+CUST000973,James,Smith,customer973@email.com,+19573302570,San Diego,IL,2023-11-07,Bronze,5148.91
+CUST000974,Emma,Jones,customer974@email.com,+14145249774,Philadelphia,PA,2024-09-22,Gold,1657.66
+CUST000975,Sarah,Rodriguez,customer975@email.com,+16719990814,New York,AZ,2023-08-25,Platinum,2838.62
+CUST000976,James,Johnson,customer976@email.com,+13635981620,San Diego,TX,2024-06-30,Bronze,9907.79
+CUST000977,Robert,Garcia,customer977@email.com,+19717755373,Dallas,TX,2024-03-17,Platinum,5771.6
+CUST000978,James,Rodriguez,customer978@email.com,+14523309844,Los Angeles,TX,2025-06-04,Gold,9701.24
+CUST000979,David,Garcia,customer979@email.com,+19682338552,Philadelphia,IL,2023-11-27,Bronze,5902.72
+CUST000980,James,Jones,customer980@email.com,+13042443316,Los Angeles,CA,2025-02-26,Platinum,4706.23
+CUST000981,James,Miller,customer981@email.com,+15952929380,Phoenix,CA,2024-07-30,Gold,2794.69
+CUST000982,Olivia,Miller,customer982@email.com,+18014376427,New York,TX,2024-03-31,Silver,7760.11
+CUST000983,James,Williams,customer983@email.com,+15747154061,San Antonio,CA,2024-11-05,Gold,7447.26
+CUST000984,James,Smith,customer984@email.com,+16431803351,Dallas,NY,2024-07-17,Gold,8826.53
+CUST000985,Olivia,Davis,customer985@email.com,+16012913957,San Antonio,NY,2023-08-01,Silver,2882.83
+CUST000986,David,Garcia,customer986@email.com,+15892954777,Dallas,CA,2025-01-18,Silver,8016.29
+CUST000987,Robert,Davis,customer987@email.com,+18654894257,San Antonio,CA,2025-05-22,Gold,2260.24
+CUST000988,James,Rodriguez,customer988@email.com,+18084866355,Los Angeles,CA,2024-09-27,Gold,4199.48
+CUST000989,James,Davis,customer989@email.com,+13497200005,San Jose,TX,2025-01-27,Gold,7290.19
+CUST000990,Sarah,Davis,customer990@email.com,+15755093882,Chicago,CA,2024-05-09,Gold,3620.26
+CUST000991,Olivia,Martinez,customer991@email.com,+13056157488,New York,PA,2024-07-11,Silver,1808.99
+CUST000992,Emma,Davis,customer992@email.com,+15745217123,Houston,NY,2024-03-03,Silver,2398.54
+CUST000993,John,Miller,customer993@email.com,+18799490689,San Diego,AZ,2023-12-31,Silver,3436.22
+CUST000994,Robert,Smith,customer994@email.com,+12561873563,Phoenix,TX,2024-04-27,Bronze,3812.96
+CUST000995,Jane,Williams,customer995@email.com,+18856727793,Los Angeles,AZ,2023-11-27,Silver,5953.0
+CUST000996,Olivia,Rodriguez,customer996@email.com,+19423616189,Phoenix,NY,2024-01-22,Gold,3681.24
+CUST000997,Jane,Johnson,customer997@email.com,+17107326303,Dallas,PA,2025-02-14,Silver,322.07
+CUST000998,Olivia,Jones,customer998@email.com,+15596047611,Philadelphia,PA,2024-01-12,Silver,5967.37
+CUST000999,James,Smith,customer999@email.com,+15871364160,Houston,IL,2024-12-20,Silver,8874.3
+CUST001000,James,Martinez,customer1000@email.com,+14409642483,Houston,AZ,2023-09-25,Bronze,8788.34

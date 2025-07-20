@@ -1,0 +1,15 @@
+Please run these commands in your terminal:
+
+# For the first screenshot (raw data):
+cp ~/Desktop/"Screenshot 2025-07-20 at 2.27.03 AM.png" ~/projects/spark-retail-analytics/docs/screenshots/raw-data-output.png
+
+# If you have the other screenshots on Desktop:
+cp ~/Desktop/"Screenshot 2025-07-20 at 2.38.26 AM.png" ~/projects/spark-retail-analytics/docs/screenshots/order-items-output.png
+cp ~/Desktop/"Screenshot 2025-07-20 at 2.39.41 AM.png" ~/projects/spark-retail-analytics/docs/screenshots/transformed-data-output.png
+
+# Or use Finder:
+1. Open Finder
+2. Go to Desktop
+3. Select the screenshots
+4. Drag them to: /Users/drupa/projects/spark-retail-analytics/docs/screenshots/
+5. Rename them as needed
