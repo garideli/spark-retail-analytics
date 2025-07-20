@@ -63,3 +63,6 @@ config/local/
 
 # Sample data display script
 show_sample_data.py
+*.tmp
+*_temp.*
+helper_*.sh
